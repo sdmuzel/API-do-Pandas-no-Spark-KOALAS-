@@ -1,0 +1,1236 @@
+pokedex_num;pokemon_name;classification;alternate_name;legendary_type;height;weight;type_1;type_2;ability_1;ability_2;attack;defense;sp_attack;sp_defense;speed;total
+1;Bulbasaur;Seed ;NULL;NULL;7;69;Grass;Poison;Overgrow;NULL;49;49;65;65;45;318
+2;Ivysaur;Seed ;NULL;NULL;10;130;Grass;Poison;Overgrow;NULL;62;63;80;80;60;405
+3;Venusaur;Seed ;NULL;NULL;20;1000;Grass;Poison;Overgrow;NULL;82;83;100;100;80;525
+3;Venusaur;Seed ;Mega;NULL;24;1555;Grass;Poison;Thick Fat;NULL;100;123;122;120;80;625
+3;Venusaur;Seed ;Gigantamax;NULL;240;0;Grass;Poison;Overgrow;NULL;82;83;100;100;80;525
+4;Charmander;Lizard ;NULL;NULL;6;85;Fire;NULL;Blaze;NULL;52;43;60;50;65;309
+5;Charmeleon;Flame ;NULL;NULL;11;190;Fire;NULL;Blaze;NULL;64;58;80;65;80;405
+6;Charizard;Flame ;NULL;NULL;17;905;Fire;Flying;Blaze;NULL;84;78;109;85;100;534
+6;Charizard;Flame ;Mega X;NULL;17;1105;Fire;Dragon;Tough Claws;NULL;130;111;130;85;100;634
+6;Charizard;Flame ;Mega Y;NULL;17;1005;Fire;Flying;Drought;NULL;104;78;159;115;100;634
+6;Charizard;Flame ;Gigantamax;NULL;280;0;Fire;Flying;Blaze;NULL;84;78;109;85;100;534
+7;Squirtle;Tiny Turtle ;NULL;NULL;5;90;Water;NULL;Torrent;NULL;48;65;50;64;43;314
+8;Wartortle;Turtle ;NULL;NULL;10;225;Water;NULL;Torrent;NULL;63;80;65;80;58;405
+9;Blastoise;Shellfish ;NULL;NULL;16;855;Water;NULL;Torrent;NULL;83;100;85;105;78;530
+9;Blastoise;Shellfish ;Mega;NULL;16;1011;Water;NULL;Mega Launcher;NULL;103;120;135;115;78;630
+9;Blastoise;Shellfish ;Gigantamax;NULL;250;0;Water;NULL;Torrent;NULL;83;100;85;105;78;530
+10;Caterpie;Worm ;NULL;NULL;3;29;Bug;NULL;Shield Dust;NULL;30;35;20;20;45;195
+11;Metapod;Cocoon ;NULL;NULL;7;99;Bug;NULL;Shed Skin;NULL;20;55;25;25;30;205
+12;Butterfree;Butterfly ;NULL;NULL;11;320;Bug;Flying;Compound Eyes;NULL;45;50;90;80;70;395
+12;Butterfree;Butterfly ;Gigantamax;NULL;170;0;Bug;Flying;Compound Eyes;NULL;45;50;90;80;70;395
+13;Weedle;Hairy Bug ;NULL;NULL;3;32;Bug;Poison;Shield Dust;NULL;35;30;20;20;50;195
+14;Kakuna;Cocoon ;NULL;NULL;6;100;Bug;Poison;Shed Skin;NULL;25;50;25;25;35;205
+15;Beedrill;Poison Bee ;NULL;NULL;10;295;Bug;Poison;Swarm;NULL;90;40;45;80;75;395
+15;Beedrill;Poison Bee ;Mega;NULL;14;405;Bug;Poison;Adaptability;NULL;150;40;15;80;145;495
+16;Pidgey;Tiny Bird ;NULL;NULL;3;18;Normal;Flying;Keen Eye;Tangled Feet;45;40;35;35;56;251
+17;Pidgeotto;Bird ;NULL;NULL;11;300;Normal;Flying;Keen Eye;Tangled Feet;60;55;50;50;71;349
+18;Pidgeot;Bird ;NULL;NULL;15;395;Normal;Flying;Keen Eye;Tangled Feet;80;75;70;70;101;479
+18;Pidgeot;Bird ;Mega;NULL;22;505;Normal;Flying;No Guard;NULL;80;80;135;80;121;579
+19;Rattata;Mouse ;NULL;NULL;3;35;Normal;NULL;Run Away;Guts;56;35;25;35;72;253
+19;Rattata;Mouse ;Alola;NULL;3;38;Dark;Normal;Gluttony;Hustle;56;35;25;35;72;253
+20;Raticate;Mouse ;NULL;NULL;7;185;Normal;NULL;Run Away;Guts;81;60;50;70;97;413
+20;Raticate;Mouse ;Alola;NULL;7;255;Dark;Normal;Gluttony;Hustle;71;70;40;80;77;413
+21;Spearow;Tiny Bird ;NULL;NULL;3;20;Normal;Flying;Keen Eye;NULL;60;30;31;31;70;262
+22;Fearow;Beak ;NULL;NULL;12;380;Normal;Flying;Keen Eye;NULL;90;65;61;61;100;442
+23;Ekans;Snake ;NULL;NULL;20;69;Poison;NULL;Intimidate;Shed Skin;60;44;40;54;55;288
+24;Arbok;Cobra ;NULL;NULL;35;650;Poison;NULL;Intimidate;Shed Skin;95;69;65;79;80;448
+25;Pikachu;Mouse ;NULL;NULL;4;60;Electric;NULL;Static;NULL;55;40;50;50;90;320
+25;Pikachu;Mouse ;Gigantamax;NULL;210;0;Electric;NULL;Static;NULL;55;40;50;50;90;320
+25;Pikachu;Mouse ;Starter;NULL;4;60;Electric;NULL;Static;NULL;80;50;75;60;120;430
+26;Raichu;Mouse ;NULL;NULL;8;300;Electric;NULL;Static;NULL;90;55;90;80;110;485
+26;Raichu;Mouse ;NULL;NULL;8;300;Electric;NULL;Static;NULL;90;55;90;80;110;485
+26;Raichu;Mouse ;NULL;NULL;8;300;Electric;NULL;Static;NULL;90;55;90;80;110;485
+26;Raichu;Mouse ;Alola;NULL;7;210;Electric;Psychic;Surge Surfer;NULL;85;50;95;85;110;485
+27;Sandshrew;Mouse ;NULL;NULL;6;120;Ground;NULL;Sand Veil;NULL;75;85;20;30;40;300
+27;Sandshrew;Mouse ;Alola;NULL;7;400;Ice;Steel;Snow Cloak;NULL;75;90;10;35;40;300
+28;Sandslash;Mouse ;NULL;NULL;10;295;Ground;NULL;Sand Veil;NULL;100;110;45;55;65;450
+28;Sandslash;Mouse ;Alola;NULL;12;550;Ice;Steel;Snow Cloak;NULL;100;120;25;65;65;450
+29;Nidoran (Female);Poison Pin ;NULL;NULL;4;70;Poison;NULL;Poison Point;Rivalry;47;52;40;40;41;275
+30;Nidorina;Poison Pin ;NULL;NULL;8;200;Poison;NULL;Poison Point;Rivalry;62;67;55;55;56;365
+31;Nidoqueen;Drill ;NULL;NULL;13;600;Poison;Ground;Poison Point;Rivalry;92;87;75;85;76;505
+32;Nidoran (Male);Poison Pin ;NULL;NULL;5;90;Poison;NULL;Poison Point;Rivalry;57;40;40;40;50;273
+33;Nidorino;Poison Pin ;NULL;NULL;9;195;Poison;NULL;Poison Point;Rivalry;72;57;55;55;65;365
+34;Nidoking;Drill ;NULL;NULL;14;620;Poison;Ground;Poison Point;Rivalry;102;77;85;75;85;505
+35;Clefairy;Fairy ;NULL;NULL;6;75;Fairy;NULL;Cute Charm;Magic Guard;45;48;60;65;35;323
+36;Clefable;Fairy ;NULL;NULL;13;400;Fairy;NULL;Cute Charm;Magic Guard;70;73;95;90;60;483
+37;Vulpix;Fox ;NULL;NULL;6;99;Fire;NULL;Flash Fire;NULL;41;40;50;65;65;299
+37;Vulpix;Fox ;Alola;NULL;6;99;Ice;NULL;Snow Cloak;NULL;41;40;50;65;65;299
+38;Ninetales;Fox ;NULL;NULL;11;199;Fire;NULL;Flash Fire;NULL;76;75;81;100;100;505
+38;Ninetales;Fox ;Alola;NULL;11;199;Ice;Fairy;Snow Cloak;NULL;67;75;81;100;109;505
+39;Jigglypuff;Balloon ;NULL;NULL;5;55;Normal;Fairy;Cute Charm;Competitive;45;20;45;25;20;270
+40;Wigglytuff;Balloon ;NULL;NULL;10;120;Normal;Fairy;Cute Charm;Competitive;70;45;85;50;45;435
+41;Zubat;Bat ;NULL;NULL;8;75;Poison;Flying;Inner Focus;NULL;45;35;30;40;55;245
+42;Golbat;Bat ;NULL;NULL;16;550;Poison;Flying;Inner Focus;NULL;80;70;65;75;95;460
+43;Oddish;Weed ;NULL;NULL;5;54;Grass;Poison;Chlorophyll;NULL;50;55;75;65;30;320
+44;Gloom;Weed ;NULL;NULL;8;86;Grass;Poison;Chlorophyll;NULL;65;70;85;75;40;395
+45;Vileplume;Flower ;NULL;NULL;12;186;Grass;Poison;Chlorophyll;NULL;80;85;110;90;50;490
+46;Paras;Mushroom ;NULL;NULL;3;54;Bug;Grass;Effect Spore;Dry Skin;70;55;45;55;25;285
+47;Parasect;Mushroom ;NULL;NULL;10;295;Bug;Grass;Effect Spore;Dry Skin;95;80;60;80;30;405
+48;Venonat;Insect ;NULL;NULL;10;300;Bug;Poison;Compound Eyes;Tinted Lens;55;50;40;55;45;305
+49;Venomoth;Poison Moth ;NULL;NULL;15;125;Bug;Poison;Shield Dust;Tinted Lens;65;60;90;75;90;450
+50;Diglett;Mole ;NULL;NULL;2;8;Ground;NULL;Sand Veil;Arena Trap;55;25;35;45;95;265
+50;Diglett;Mole ;Alola;NULL;2;10;Ground;Steel;Sand Veil;Tangling Hair;55;30;35;45;90;265
+51;Dugtrio;Mole ;Alola;NULL;7;666;Ground;Steel;Sand Veil;Tangling Hair;100;60;50;70;110;425
+51;Dugtrio;Mole ;NULL;NULL;7;333;Ground;NULL;Sand Veil;Arena Trap;100;50;50;70;120;425
+52;Meowth;Scratch Cat ;Gigantamax;NULL;330;0;Normal;NULL;Pickup;Technician;45;35;40;40;90;290
+52;Meowth;Scratch Cat ;NULL;NULL;4;42;Normal;NULL;Pickup;Technician;45;35;40;40;90;290
+52;Meowth;Scratch Cat ;Alola;NULL;4;42;Dark;NULL;Pickup;Technician;35;35;50;40;90;290
+52;Meowth;Scratch Cat ;Galar;NULL;4;75;Steel;NULL;Pickup;Tough Claws;65;55;40;40;40;290
+53;Persian;Classy Cat ;NULL;NULL;10;320;Normal;NULL;Limber;Technician;70;60;65;65;115;440
+53;Persian;Classy Cat ;Alola;NULL;11;330;Dark;NULL;Fur Coat;Technician;60;60;75;65;115;440
+54;Psyduck;Duck ;NULL;NULL;8;196;Water;NULL;Damp;Cloud Nine;52;48;65;50;55;320
+55;Golduck;Duck ;NULL;NULL;17;766;Water;NULL;Damp;Cloud Nine;82;78;95;80;85;500
+56;Mankey;Pig Monkey ;NULL;NULL;5;280;Fighting;NULL;Vital Spirit;Anger Point;80;35;35;45;70;305
+57;Primeape;Pig Monkey ;NULL;NULL;10;320;Fighting;NULL;Vital Spirit;Anger Point;105;60;60;70;95;455
+58;Growlithe;Puppy ;NULL;NULL;7;190;Fire;NULL;Intimidate;Flash Fire;70;45;70;50;60;350
+58;Growlithe;Scout ;Hisui;NULL;8;227;Fire;Rock;Intimidate;Flash Fire;75;45;65;50;55;350
+59;Arcanine;Legendary ;Hisui;NULL;20;1680;Fire;Rock;Intimidate;Flash Fire;115;80;95;80;90;555
+59;Arcanine;Legendary ;NULL;NULL;19;1550;Fire;NULL;Intimidate;Flash Fire;110;80;100;80;95;555
+60;Poliwag;Tadpole ;NULL;NULL;6;124;Water;NULL;Water Absorb;Damp;50;40;40;40;90;300
+61;Poliwhirl;Tadpole ;NULL;NULL;10;200;Water;NULL;Water Absorb;Damp;65;65;50;50;90;385
+62;Poliwrath;Tadpole ;NULL;NULL;13;540;Water;Fighting;Water Absorb;Damp;95;95;70;90;70;510
+63;Abra;Psi ;NULL;NULL;9;195;Psychic;NULL;Synchronize;Inner Focus;20;15;105;55;90;310
+64;Kadabra;Psi ;NULL;NULL;13;565;Psychic;NULL;Synchronize;Inner Focus;35;30;120;70;105;400
+65;Alakazam;Psi ;NULL;NULL;15;480;Psychic;NULL;Synchronize;Inner Focus;50;45;135;95;120;500
+65;Alakazam;Psi ;NULL;NULL;15;480;Psychic;NULL;Synchronize;Inner Focus;50;45;135;95;120;500
+65;Alakazam;Psi ;Mega;NULL;12;480;Psychic;NULL;Trace;NULL;50;65;175;105;150;600
+66;Machop;Superpower ;NULL;NULL;8;195;Fighting;NULL;Guts;No Guard;80;50;35;35;35;305
+67;Machoke;Superpower ;NULL;NULL;15;705;Fighting;NULL;Guts;No Guard;100;70;50;60;45;405
+68;Machamp;Superpower ;NULL;NULL;16;1300;Fighting;NULL;Guts;No Guard;130;80;65;85;55;505
+68;Machamp;Superpower ;NULL;NULL;16;1300;Fighting;NULL;Guts;No Guard;130;80;65;85;55;505
+68;Machamp;Superpower ;Gigantamax;NULL;250;0;Fighting;NULL;Guts;No Guard;130;80;65;85;55;505
+69;Bellsprout;Flower ;NULL;NULL;7;40;Grass;Poison;Chlorophyll;NULL;75;35;70;30;40;300
+70;Weepinbell;Flycatcher ;NULL;NULL;10;64;Grass;Poison;Chlorophyll;NULL;90;50;85;45;55;390
+71;Victreebel;Flycatcher ;NULL;NULL;17;155;Grass;Poison;Chlorophyll;NULL;105;65;100;70;70;490
+72;Tentacool;Jellyfish ;NULL;NULL;9;455;Water;Poison;Clear Body;Liquid Ooze;40;35;50;100;70;335
+73;Tentacruel;Jellyfish ;NULL;NULL;16;550;Water;Poison;Clear Body;Liquid Ooze;70;65;80;120;100;515
+74;Geodude;Rock ;Alola;NULL;4;203;Rock;Electric;Magnet Pull;Sturdy;80;100;30;30;20;300
+74;Geodude;Rock ;NULL;NULL;4;200;Rock;Ground;Rock Head;Sturdy;80;100;30;30;20;300
+75;Graveler;Rock ;NULL;NULL;10;1050;Rock;Ground;Rock Head;Sturdy;95;115;45;45;35;390
+75;Graveler;Rock ;Alola;NULL;10;1100;Rock;Electric;Magnet Pull;Sturdy;95;115;45;45;35;390
+76;Golem;Megaton ;Alola;NULL;17;3160;Rock;Electric;Magnet Pull;Sturdy;120;130;55;65;45;495
+76;Golem;Megaton ;NULL;NULL;14;3000;Rock;Ground;Rock Head;Sturdy;120;130;55;65;45;495
+76;Golem;Megaton ;NULL;NULL;14;3000;Rock;Ground;Rock Head;Sturdy;120;130;55;65;45;495
+77;Ponyta;Fire Horse ;NULL;NULL;10;300;Fire;NULL;Run Away;Flash Fire;85;55;65;65;90;410
+77;Ponyta;Unique Horn ;Galar;NULL;8;240;Psychic;NULL;Run Away;Pastel Veil;85;55;65;65;90;410
+78;Rapidash;Unique Horn ;Galar;NULL;17;800;Psychic;Fairy;Run Away;Pastel Veil;100;70;80;80;105;500
+78;Rapidash;Fire Horse ;NULL;NULL;17;950;Fire;NULL;Run Away;Flash Fire;100;70;80;80;105;500
+79;Slowpoke;Dopey ;NULL;NULL;12;360;Water;Psychic;Oblivious;Own Tempo;65;65;40;40;15;315
+79;Slowpoke;Dopey ;Galar;NULL;12;360;Psychic;NULL;Gluttony;Own Tempo;65;65;40;40;15;315
+80;Slowbro;Hermit Crab ;Mega;NULL;20;1200;Water;Psychic;Shell Armor;NULL;75;180;130;80;30;590
+80;Slowbro;Hermit Crab ;Galar;NULL;16;705;Poison;Psychic;Quick Draw;Own Tempo;100;95;100;70;30;490
+80;Slowbro;Hermit Crab ;NULL;NULL;16;785;Water;Psychic;Oblivious;Own Tempo;75;110;100;80;30;490
+81;Magnemite;Magnet ;NULL;NULL;3;60;Electric;Steel;Magnet Pull;Sturdy;35;70;95;55;45;325
+82;Magneton;Magnet ;NULL;NULL;10;600;Electric;Steel;Magnet Pull;Sturdy;60;95;120;70;70;465
+83;Farfetch'd;Wild Duck ;NULL;NULL;8;150;Normal;Flying;Keen Eye;Inner Focus;90;55;58;62;60;377
+83;Farfetch'd;Wild Bull ;Galar;NULL;8;420;Fighting;NULL;Steadfast;NULL;95;55;58;62;55;377
+84;Doduo;Twin Bird ;NULL;NULL;14;392;Normal;Flying;Run Away;Early Bird;85;45;35;35;75;310
+85;Dodrio;Triple Bird ;NULL;NULL;18;852;Normal;Flying;Run Away;Early Bird;110;70;60;60;110;470
+86;Seel;Sea Lion ;NULL;NULL;11;900;Water;NULL;Thick Fat;Hydration;45;55;45;70;45;325
+87;Dewgong;Sea Lion ;NULL;NULL;17;1200;Water;Ice;Thick Fat;Hydration;70;80;70;95;70;475
+88;Grimer;Sludge ;NULL;NULL;9;300;Poison;NULL;Stench;Sticky Hold;80;50;40;50;25;325
+88;Grimer;Sludge ;Alola;NULL;7;420;Poison;Dark;Poison Touch;Gluttony;80;50;40;50;25;325
+89;Muk;Sludge ;Alola;NULL;10;520;Poison;Dark;Poison Touch;Gluttony;105;75;65;100;50;500
+89;Muk;Sludge ;NULL;NULL;12;300;Poison;NULL;Stench;Sticky Hold;105;75;65;100;50;500
+90;Shellder;Bivalve ;NULL;NULL;3;40;Water;NULL;Shell Armor;Skill Link;65;100;45;25;40;305
+91;Cloyster;Bivalve ;NULL;NULL;15;1325;Water;Ice;Shell Armor;Skill Link;95;180;85;45;70;525
+92;Gastly;Gas ;NULL;NULL;13;1;Ghost;Poison;Levitate;NULL;35;30;100;35;80;310
+93;Haunter;Gas ;NULL;NULL;16;1;Ghost;Poison;Levitate;NULL;50;45;115;55;95;405
+94;Gengar;Shadow ;NULL;NULL;15;405;Ghost;Poison;Cursed Body;NULL;65;60;130;75;110;500
+94;Gengar;Shadow ;NULL;NULL;15;405;Ghost;Poison;Cursed Body;NULL;65;60;130;75;110;500
+94;Gengar;Shadow ;Mega;NULL;14;405;Ghost;Poison;Shadow Tag;NULL;65;80;170;95;130;600
+94;Gengar;Shadow ;Gigantamax;NULL;200;0;Ghost;Poison;Cursed Body;NULL;65;60;130;75;110;500
+95;Onix;Rock Snake ;NULL;NULL;88;2100;Rock;Ground;Rock Head;Sturdy;45;160;30;45;70;385
+96;Drowzee;Hypnosis ;NULL;NULL;10;324;Psychic;NULL;Insomnia;Forewarn;48;45;43;90;42;328
+97;Hypno;Hypnosis ;NULL;NULL;16;756;Psychic;NULL;Insomnia;Forewarn;73;70;73;115;67;483
+98;Krabby;River Crab ;NULL;NULL;4;65;Water;NULL;Hyper Cutter;Shell Armor;105;90;25;25;50;325
+99;Kingler;Pincer ;NULL;NULL;13;600;Water;NULL;Hyper Cutter;Shell Armor;130;115;50;50;75;475
+99;Kingler;Pincer ;Gigantamax;NULL;190;0;Water;NULL;Hyper Cutter;Shell Armor;130;115;50;50;75;475
+100;Voltorb;Sphere ;Hisui;NULL;5;130;Electric;Grass;Soundproof;Static;30;50;55;55;100;330
+100;Voltorb;Ball ;NULL;NULL;5;105;Electric;NULL;Soundproof;Static;30;50;55;55;100;330
+101;Electrode;Ball ;NULL;NULL;12;666;Electric;NULL;Soundproof;Static;50;70;80;80;150;490
+101;Electrode;Sphere ;Hisui;NULL;12;710;Electric;Grass;Soundproof;Static;50;70;80;80;150;490
+102;Exeggcute;Egg ;NULL;NULL;4;25;Grass;Psychic;Chlorophyll;NULL;40;80;60;45;40;325
+103;Exeggutor;Coconut ;NULL;NULL;20;1200;Grass;Psychic;Chlorophyll;NULL;95;85;125;75;55;530
+103;Exeggutor;Coconut ;NULL;NULL;20;1200;Grass;Psychic;Chlorophyll;NULL;95;85;125;75;55;530
+103;Exeggutor;Coconut ;NULL;NULL;20;1200;Grass;Psychic;Chlorophyll;NULL;95;85;125;75;55;530
+103;Exeggutor;Coconut ;Alola;NULL;109;4156;Grass;Dragon;Frisk;NULL;105;85;125;75;45;530
+104;Cubone;Lonely ;NULL;NULL;4;65;Ground;NULL;Rock Head;Lightning Rod;50;95;40;50;35;320
+105;Marowak;Bone Keeper ;NULL;NULL;10;450;Ground;NULL;Rock Head;Lightning Rod;80;110;50;80;45;425
+105;Marowak;Bone Keeper ;NULL;NULL;10;450;Ground;NULL;Rock Head;Lightning Rod;80;110;50;80;45;425
+105;Marowak;Bone Keeper ;NULL;NULL;10;450;Ground;NULL;Rock Head;Lightning Rod;80;110;50;80;45;425
+105;Marowak;Bone Keeper ;Alola;NULL;10;340;Ghost;Fire;Cursed Body;Lightning Rod;80;110;50;80;45;425
+106;Hitmonlee;Kicking ;NULL;NULL;15;498;Fighting;NULL;Limber;Reckless;120;53;35;110;87;455
+107;Hitmonchan;Punching ;NULL;NULL;14;502;Fighting;NULL;Keen Eye;Iron Fist;105;79;35;110;76;455
+108;Lickitung;Licking ;NULL;NULL;12;655;Normal;NULL;Own Tempo;Oblivious;55;75;60;75;30;385
+109;Koffing;Poison Gas ;NULL;NULL;6;10;Poison;NULL;Levitate;Neutralizing Gas;65;95;60;45;35;340
+110;Weezing;Poison Gas ;NULL;NULL;12;95;Poison;NULL;Levitate;Neutralizing Gas;90;120;85;70;60;490
+110;Weezing;Poison Gas ;Galar;NULL;30;160;Poison;Fairy;Levitate;Neutralizing Gas;90;120;85;70;60;490
+111;Rhyhorn;Spikes ;NULL;NULL;10;1150;Ground;Rock;Lightning Rod;Rock Head;85;95;30;30;25;345
+112;Rhydon;Drill ;NULL;NULL;19;1200;Ground;Rock;Lightning Rod;Rock Head;130;120;45;45;40;485
+113;Chansey;Egg ;NULL;NULL;11;346;Normal;NULL;Natural Cure;Serene Grace;5;5;35;105;50;450
+114;Tangela;Vine ;NULL;NULL;10;350;Grass;NULL;Chlorophyll;Leaf Guard;55;115;100;40;60;435
+115;Kangaskhan;Parent ;NULL;NULL;22;800;Normal;NULL;Early Bird;Scrappy;95;80;40;80;90;490
+115;Kangaskhan;Parent ;Mega;NULL;22;1000;Normal;NULL;Parental Bond;NULL;125;100;60;100;100;590
+116;Horsea;Dragon ;NULL;NULL;4;80;Water;NULL;Swift Swim;Sniper;40;70;70;25;60;295
+117;Seadra;Dragon ;NULL;NULL;12;250;Water;NULL;Poison Point;Sniper;65;95;95;45;85;440
+118;Goldeen;Goldfish ;NULL;NULL;6;150;Water;NULL;Swift Swim;Water Veil;67;60;35;50;63;320
+119;Seaking;Goldfish ;NULL;NULL;13;390;Water;NULL;Swift Swim;Water Veil;92;65;65;80;68;450
+120;Staryu;Star Shape ;NULL;NULL;8;345;Water;NULL;Illuminate;Natural Cure;45;55;70;55;85;340
+121;Starmie;Mysterious ;NULL;NULL;11;800;Water;Psychic;Illuminate;Natural Cure;75;85;100;85;115;520
+122;Mr. Mime;Barrier ;NULL;NULL;13;545;Psychic;Fairy;Soundproof;Filter;45;65;100;120;90;460
+122;Mr. Mime;Dancing ;Galar;NULL;14;560;Ice;Psychic;Vital Spirit;Screen Cleaner;65;65;90;90;100;460
+123;Scyther;Mantis ;NULL;NULL;15;560;Bug;Flying;Swarm;Technician;110;80;55;80;105;500
+124;Jynx;Human Shape ;NULL;NULL;14;406;Ice;Psychic;Oblivious;Forewarn;50;35;115;95;95;455
+125;Electabuzz;Electric ;NULL;NULL;11;300;Electric;NULL;Static;NULL;83;57;95;85;105;490
+126;Magmar;Spitfire ;NULL;NULL;13;445;Fire;NULL;Flame Body;NULL;95;57;100;85;93;495
+127;Pinsir;Stag Beetle ;NULL;NULL;15;550;Bug;NULL;Hyper Cutter;Mold Breaker;125;100;55;70;85;500
+127;Pinsir;Stag Beetle ;Mega;NULL;17;590;Bug;Flying;Aerilate;NULL;155;120;65;90;105;600
+128;Tauros;Wild Bull ;Paldean Combat Breed;NULL;14;1150;Fighting;NULL;Intimidate;Anger Point;110;105;30;70;100;490
+128;Tauros;Wild Bull ;Paldean Blaze Breed;NULL;14;850;Fighting;Fire;Intimidate;Anger Point;110;105;30;70;100;490
+128;Tauros;Wild Bull ;Paldean Aqua Breed;NULL;14;1100;Fighting;Water;Intimidate;Anger Point;110;105;30;70;100;490
+128;Tauros;Wild Bull ;NULL;NULL;14;884;Normal;NULL;Intimidate;Anger Point;100;95;40;70;110;490
+129;Magikarp;Fish ;NULL;NULL;9;100;Water;NULL;Swift Swim;NULL;10;55;15;20;80;200
+130;Gyarados;Atrocious ;NULL;NULL;65;2350;Water;Flying;Intimidate;NULL;125;79;60;100;81;540
+130;Gyarados;Atrocious ;Mega;NULL;65;3050;Water;Dark;Mold Breaker;NULL;155;109;70;130;81;640
+131;Lapras;Transport ;Gigantamax;NULL;240;0;Water;Ice;Water Absorb;Shell Armor;85;80;85;95;60;535
+131;Lapras;Transport ;NULL;NULL;25;2200;Water;Ice;Water Absorb;Shell Armor;85;80;85;95;60;535
+132;Ditto;Transform ;NULL;NULL;3;40;Normal;NULL;Limber;NULL;48;48;48;48;48;288
+133;Eevee;Evolution ;NULL;NULL;3;65;Normal;NULL;Run Away;Adaptability;55;50;45;65;55;325
+133;Eevee;Evolution ;Gigantamax;NULL;180;0;Normal;NULL;Run Away;Adaptability;55;50;45;65;55;325
+133;Eevee;Evolution ;Starter;NULL;3;65;Normal;NULL;Run Away;Adaptability;75;70;65;85;75;435
+134;Vaporeon;Bubble Jet ;NULL;NULL;10;290;Water;NULL;Water Absorb;NULL;65;60;110;95;65;525
+135;Jolteon;Lightning ;NULL;NULL;8;245;Electric;NULL;Volt Absorb;NULL;65;60;110;95;130;525
+136;Flareon;Flame ;NULL;NULL;9;250;Fire;NULL;Flash Fire;NULL;130;60;95;110;65;525
+137;Porygon;Virtual ;NULL;NULL;8;365;Normal;NULL;Trace;Download;60;70;85;75;40;395
+138;Omanyte;Spiral ;NULL;NULL;4;75;Rock;Water;Swift Swim;Shell Armor;40;100;90;55;35;355
+139;Omastar;Spiral ;NULL;NULL;10;350;Rock;Water;Swift Swim;Shell Armor;60;125;115;70;55;495
+140;Kabuto;Shellfish ;NULL;NULL;5;115;Rock;Water;Swift Swim;Battle Armor;80;90;55;45;55;355
+141;Kabutops;Shellfish ;NULL;NULL;13;405;Rock;Water;Swift Swim;Battle Armor;115;105;65;70;80;495
+142;Aerodactyl;Fossil ;NULL;NULL;18;590;Rock;Flying;Rock Head;Pressure;105;65;60;75;130;515
+142;Aerodactyl;Fossil ;Mega;NULL;21;790;Rock;Flying;Tough Claws;NULL;135;85;70;95;150;615
+143;Snorlax;Sleeping ;Gigantamax;NULL;350;0;Normal;NULL;Immunity;Thick Fat;110;65;65;110;30;540
+143;Snorlax;Sleeping ;NULL;NULL;21;4600;Normal;NULL;Immunity;Thick Fat;110;65;65;110;30;540
+144;Articuno;Freeze ;NULL;"""Sub-Legendary""";17;554;Ice;Flying;Pressure;NULL;85;100;95;125;85;580
+144;Articuno;Cruel ;Galar;"""Sub-Legendary""";17;509;Psychic;Flying;Competitive;NULL;85;85;125;100;95;580
+145;Zapdos;Strong Legs ;Galar;"""Sub-Legendary""";16;582;Fighting;Flying;Defiant;NULL;125;90;85;90;100;580
+145;Zapdos;Electric ;NULL;"""Sub-Legendary""";16;526;Electric;Flying;Pressure;NULL;90;85;125;90;100;580
+146;Moltres;Flame ;NULL;"""Sub-Legendary""";20;600;Fire;Flying;Pressure;NULL;100;90;125;85;90;580
+146;Moltres;Malevolent ;Galar;"""Sub-Legendary""";20;660;Dark;Flying;Berserk;NULL;85;90;100;125;90;580
+147;Dratini;Dragon ;NULL;NULL;18;33;Dragon;NULL;Shed Skin;NULL;64;45;50;50;50;300
+148;Dragonair;Dragon ;NULL;NULL;40;165;Dragon;NULL;Shed Skin;NULL;84;65;70;70;70;420
+149;Dragonite;Dragon ;NULL;NULL;22;2100;Dragon;Flying;Inner Focus;NULL;134;95;100;100;80;600
+150;Mewtwo;Genetic ;NULL;"""Legendary""";20;1220;Psychic;NULL;Pressure;NULL;110;90;154;90;130;680
+150;Mewtwo;Genetic ;Mega X;"""Legendary""";23;1270;Psychic;NULL;Steadfast;NULL;190;100;154;100;130;780
+150;Mewtwo;Genetic ;Mega Y;"""Legendary""";15;330;Psychic;NULL;Insomnia;NULL;150;70;194;120;140;780
+151;Mew;New Species ;NULL;"""Mythical""";4;40;Psychic;NULL;Synchronize;NULL;100;100;100;100;100;600
+152;Chikorita;Leaf ;NULL;NULL;9;64;Grass;NULL;Overgrow;NULL;49;65;49;65;45;318
+153;Bayleef;Leaf ;NULL;NULL;12;158;Grass;NULL;Overgrow;NULL;62;80;63;80;60;405
+154;Meganium;Herb ;NULL;NULL;18;1005;Grass;NULL;Overgrow;NULL;82;100;83;100;80;525
+155;Cyndaquil;Fire Mouse ;NULL;NULL;5;79;Fire;NULL;Blaze;NULL;52;43;60;50;65;309
+156;Quilava;Volcano ;NULL;NULL;9;190;Fire;NULL;Blaze;NULL;64;58;80;65;80;405
+157;Typhlosion;Volcano ;NULL;NULL;17;795;Fire;NULL;Blaze;NULL;84;78;109;85;100;534
+157;Typhlosion;Ghost Flame ;Hisui;NULL;16;698;Fire;Ghost;Blaze;NULL;84;78;119;85;95;534
+158;Totodile;Big Jaw ;NULL;NULL;6;95;Water;NULL;Torrent;NULL;65;64;44;48;43;314
+159;Croconaw;Big Jaw ;NULL;NULL;11;250;Water;NULL;Torrent;NULL;80;80;59;63;58;405
+160;Feraligatr;Big Jaw ;NULL;NULL;23;888;Water;NULL;Torrent;NULL;105;100;79;83;78;530
+161;Sentret;Scout ;NULL;NULL;8;60;Normal;NULL;Run Away;Keen Eye;46;34;35;45;20;215
+162;Furret;Long Body ;NULL;NULL;18;325;Normal;NULL;Run Away;Keen Eye;76;64;45;55;90;415
+163;Hoothoot;Owl ;NULL;NULL;7;212;Normal;Flying;Insomnia;Keen Eye;30;30;36;56;50;262
+164;Noctowl;Owl ;NULL;NULL;16;408;Normal;Flying;Insomnia;Keen Eye;50;50;86;96;70;452
+165;Ledyba;Five Star ;NULL;NULL;10;108;Bug;Flying;Swarm;Early Bird;20;30;40;80;55;265
+166;Ledian;Five Star ;NULL;NULL;14;356;Bug;Flying;Swarm;Early Bird;35;50;55;110;85;390
+167;Spinarak;String Spit ;NULL;NULL;5;85;Bug;Poison;Swarm;Insomnia;60;40;40;40;30;250
+168;Ariados;Long Leg ;NULL;NULL;11;335;Bug;Poison;Swarm;Insomnia;90;70;60;70;40;400
+169;Crobat;Bat ;NULL;NULL;18;750;Poison;Flying;Inner Focus;NULL;90;80;70;80;130;535
+170;Chinchou;Angler ;NULL;NULL;5;120;Water;Electric;Volt Absorb;Illuminate;38;38;56;56;67;330
+171;Lanturn;Light ;NULL;NULL;12;225;Water;Electric;Volt Absorb;Illuminate;58;58;76;76;67;460
+172;Pichu;Tiny Mouse ;NULL;NULL;3;20;Electric;NULL;Static;NULL;40;15;35;35;60;205
+173;Cleffa;Star Shape ;NULL;NULL;3;30;Fairy;NULL;Cute Charm;Magic Bounce;25;28;45;55;15;218
+174;Igglybuff;Balloon ;NULL;NULL;3;10;Normal;Fairy;Cute Charm;Competitive;30;15;40;20;15;210
+175;Togepi;Spike Ball ;NULL;NULL;3;15;Fairy;NULL;Hustle;Serene Grace;20;65;40;65;20;245
+176;Togetic;Happiness ;NULL;NULL;6;32;Fairy;Flying;Hustle;Serene Grace;40;85;80;105;40;405
+177;Natu;Tiny Bird ;NULL;NULL;2;20;Psychic;Flying;Synchronize;Early Bird;50;45;70;45;70;320
+178;Xatu;Mystic ;NULL;NULL;15;150;Psychic;Flying;Synchronize;Early Bird;75;70;95;70;95;470
+179;Mareep;Wool ;NULL;NULL;6;78;Electric;NULL;Static;NULL;40;40;65;45;35;280
+180;Flaaffy;Wool ;NULL;NULL;8;133;Electric;NULL;Static;NULL;55;55;80;60;45;365
+181;Ampharos;Light ;NULL;NULL;14;615;Electric;NULL;Static;NULL;75;85;115;90;55;510
+181;Ampharos;Light ;Mega;NULL;14;615;Electric;Dragon;Mold Breaker;NULL;95;105;165;110;45;610
+182;Bellossom;Flower ;NULL;NULL;4;58;Grass;NULL;Chlorophyll;NULL;80;95;90;100;50;490
+183;Marill;Aqua Mouse ;NULL;NULL;4;85;Water;Fairy;Thick Fat;Huge Power;20;50;20;50;40;250
+184;Azumarill;Aqua Rabbit ;NULL;NULL;8;285;Water;Fairy;Thick Fat;Huge Power;50;80;60;80;50;420
+185;Sudowoodo;Imitation ;NULL;NULL;12;380;Rock;NULL;Sturdy;Rock Head;110;115;30;65;30;420
+186;Politoed;Frog ;NULL;NULL;11;339;Water;NULL;Water Absorb;Damp;75;75;90;100;70;500
+187;Hoppip;Cottonweed ;NULL;NULL;4;5;Grass;Flying;Chlorophyll;Leaf Guard;35;40;35;55;50;250
+188;Skiploom;Cottonweed ;NULL;NULL;6;10;Grass;Flying;Chlorophyll;Leaf Guard;45;50;45;65;80;340
+189;Jumpluff;Cottonweed ;NULL;NULL;8;30;Grass;Flying;Chlorophyll;Leaf Guard;55;70;55;95;110;460
+190;Aipom;Long Tail ;NULL;NULL;8;115;Normal;NULL;Run Away;Pickup;70;55;40;55;85;360
+191;Sunkern;Seed ;NULL;NULL;3;18;Grass;NULL;Chlorophyll;Solar Power;30;30;30;30;30;180
+192;Sunflora;Sun ;NULL;NULL;8;85;Grass;NULL;Chlorophyll;Solar Power;75;55;105;85;30;425
+193;Yanma;Clear Wing ;NULL;NULL;12;380;Bug;Flying;Speed Boost;Compound Eyes;65;45;75;45;95;390
+194;Wooper;Water Fish ;NULL;NULL;4;85;Water;Ground;Damp;Water Absorb;45;45;25;25;15;210
+194;Wooper;Poison Fish ;Paldea;NULL;4;110;Poison;Ground;Poison Point;Water Absorb;45;45;25;25;15;210
+195;Quagsire;Water Fish ;NULL;NULL;14;750;Water;Ground;Damp;Water Absorb;85;85;65;65;35;430
+196;Espeon;Sun ;NULL;NULL;9;265;Psychic;NULL;Synchronize;NULL;65;60;130;95;110;525
+197;Umbreon;Moonlight ;NULL;NULL;10;270;Dark;NULL;Synchronize;NULL;65;110;60;130;65;525
+198;Murkrow;Darkness ;NULL;NULL;5;21;Dark;Flying;Insomnia;Super Luck;85;42;85;42;91;405
+199;Slowking;Royal ;NULL;NULL;20;795;Water;Psychic;Oblivious;Own Tempo;75;80;100;110;30;490
+199;Slowking;Royal ;Galar;NULL;18;795;Poison;Psychic;Curious Medicine;Own Tempo;65;80;110;110;30;490
+200;Misdreavus;Screech ;NULL;NULL;7;10;Ghost;NULL;Levitate;NULL;60;60;85;85;85;435
+201;Unown;Symbol ;NULL;NULL;5;50;Psychic;NULL;Levitate;NULL;72;48;72;48;48;336
+202;Wobbuffet;Patient ;NULL;NULL;13;285;Psychic;NULL;Shadow Tag;NULL;33;58;33;58;33;405
+203;Girafarig;Long Neck ;NULL;NULL;15;415;Normal;Psychic;Inner Focus;Early Bird;80;65;90;65;85;455
+204;Pineco;Bagworm ;NULL;NULL;6;72;Bug;NULL;Sturdy;NULL;65;90;35;35;15;290
+205;Forretress;Bagworm ;NULL;NULL;12;1258;Bug;Steel;Sturdy;NULL;90;140;60;60;40;465
+206;Dunsparce;Land Snake ;NULL;NULL;15;140;Normal;NULL;Serene Grace;Run Away;70;70;65;65;45;415
+207;Gligar;Fly Scorpion ;NULL;NULL;11;648;Ground;Flying;Hyper Cutter;Sand Veil;75;105;35;65;85;430
+208;Steelix;Iron Snake ;NULL;NULL;92;4000;Steel;Ground;Rock Head;Sturdy;85;200;55;65;30;510
+208;Steelix;Iron Snake ;Mega;NULL;105;7400;Steel;Ground;Sand Force;NULL;125;230;55;95;30;610
+209;Snubbull;Fairy ;NULL;NULL;6;78;Fairy;NULL;Intimidate;Run Away;80;50;40;40;30;300
+210;Granbull;Fairy ;NULL;NULL;14;487;Fairy;NULL;Intimidate;Quick Feet;120;75;60;60;45;450
+211;Qwilfish;Balloon ;NULL;NULL;5;39;Water;Poison;Poison Point;Swift Swim;95;85;55;55;85;440
+211;Qwilfish;Balloon ;Hisui;NULL;5;39;Dark;Poison;Poison Point;Swift Swim;95;85;55;55;85;440
+212;Scizor;Pincer ;Mega;NULL;20;1250;Bug;Steel;Technician;NULL;150;140;65;100;75;600
+212;Scizor;Pincer ;NULL;NULL;18;1180;Bug;Steel;Swarm;Technician;130;100;55;80;65;500
+213;Shuckle;Mold ;NULL;NULL;6;205;Bug;Rock;Sturdy;Gluttony;10;230;10;230;5;505
+214;Heracross;Single Horn ;NULL;NULL;15;540;Bug;Fighting;Swarm;Guts;125;75;40;95;85;500
+214;Heracross;Abundance ;Mega;NULL;17;625;Bug;Fighting;Skill Link;NULL;185;115;40;105;75;600
+215;Sneasel;Sharp Claw ;Hisui;NULL;9;270;Fighting;Poison;Inner Focus;Keen Eye;95;55;35;75;115;430
+215;Sneasel;Sharp Claw ;NULL;NULL;9;280;Dark;Ice;Inner Focus;Keen Eye;95;55;35;75;115;430
+216;Teddiursa;Little Bear ;NULL;NULL;6;88;Normal;NULL;Pickup;Quick Feet;80;50;50;50;40;330
+217;Ursaring;Hibernator ;NULL;NULL;18;1258;Normal;NULL;Guts;Quick Feet;130;75;75;75;55;500
+218;Slugma;Lava ;NULL;NULL;7;350;Fire;NULL;Magma Armor;Flame Body;40;40;70;40;20;250
+219;Magcargo;Lava ;NULL;NULL;8;550;Fire;Rock;Magma Armor;Flame Body;50;120;90;80;30;430
+220;Swinub;Pig ;NULL;NULL;4;65;Ice;Ground;Oblivious;Snow Cloak;50;40;30;30;50;250
+221;Piloswine;Swine ;NULL;NULL;11;558;Ice;Ground;Oblivious;Snow Cloak;100;80;60;60;50;450
+222;Corsola;Coral ;NULL;NULL;6;50;Water;Rock;Hustle;Natural Cure;55;95;65;95;35;410
+222;Corsola;Coral ;Galar;NULL;6;5;Ghost;NULL;Weak Armor;NULL;55;100;65;100;30;410
+223;Remoraid;Jet ;NULL;NULL;6;120;Water;NULL;Hustle;Sniper;65;35;65;35;65;300
+224;Octillery;Jet ;NULL;NULL;9;285;Water;NULL;Suction Cups;Sniper;105;75;105;75;45;480
+225;Delibird;Delivery ;NULL;NULL;9;160;Ice;Flying;Vital Spirit;NULL;55;45;65;45;75;330
+226;Mantine;Kite ;NULL;NULL;21;2200;Water;Flying;Swift Swim;Water Absorb;40;70;80;140;70;485
+227;Skarmory;Armor Bird ;NULL;NULL;17;505;Steel;Flying;Keen Eye;Sturdy;80;140;40;70;70;465
+228;Houndour;Dark ;NULL;NULL;6;108;Dark;Fire;Early Bird;Flash Fire;60;30;80;50;65;330
+229;Houndoom;Dark ;NULL;NULL;14;350;Dark;Fire;Early Bird;Flash Fire;90;50;110;80;95;500
+229;Houndoom;Dark ;Mega;NULL;19;495;Dark;Fire;Solar Power;NULL;90;90;140;90;115;600
+230;Kingdra;Dragon ;NULL;NULL;18;1520;Water;Dragon;Swift Swim;Sniper;95;95;95;95;85;540
+231;Phanpy;Long Nose ;NULL;NULL;5;335;Ground;NULL;Pickup;NULL;60;60;40;40;40;330
+232;Donphan;Armor ;NULL;NULL;11;1200;Ground;NULL;Sturdy;NULL;120;120;60;60;50;500
+233;Porygon2;Virtual ;NULL;NULL;6;325;Normal;NULL;Trace;Download;80;90;105;95;60;515
+234;Stantler;Big Horn ;NULL;NULL;14;712;Normal;NULL;Intimidate;Frisk;95;62;85;65;85;465
+235;Smeargle;Painter ;NULL;NULL;12;580;Normal;NULL;Own Tempo;Technician;20;35;20;45;75;250
+236;Tyrogue;Scuffle ;NULL;NULL;7;210;Fighting;NULL;Guts;Steadfast;35;35;35;35;35;210
+237;Hitmontop;Handstand ;NULL;NULL;14;480;Fighting;NULL;Intimidate;Technician;95;95;35;110;70;455
+238;Smoochum;Kiss ;NULL;NULL;4;60;Ice;Psychic;Oblivious;Forewarn;30;15;85;65;65;305
+239;Elekid;Electric ;NULL;NULL;6;235;Electric;NULL;Static;NULL;63;37;65;55;95;360
+240;Magby;Live Coal ;NULL;NULL;7;214;Fire;NULL;Flame Body;NULL;75;37;70;55;83;365
+241;Miltank;Milk Cow ;NULL;NULL;12;755;Normal;NULL;Thick Fat;Scrappy;80;105;40;70;100;490
+242;Blissey;Happiness ;NULL;NULL;15;468;Normal;NULL;Natural Cure;Serene Grace;10;10;75;135;55;540
+243;Raikou;Thunder ;NULL;"""Sub-Legendary""";19;1780;Electric;NULL;Pressure;NULL;85;75;115;100;115;580
+244;Entei;Volcano ;NULL;"""Sub-Legendary""";21;1980;Fire;NULL;Pressure;NULL;115;85;90;75;100;580
+245;Suicune;Aurora ;NULL;"""Sub-Legendary""";20;1870;Water;NULL;Pressure;NULL;75;115;90;115;85;580
+246;Larvitar;Rock Skin ;NULL;NULL;6;720;Rock;Ground;Guts;NULL;64;50;45;50;41;300
+247;Pupitar;Hard Shell ;NULL;NULL;12;1520;Rock;Ground;Shed Skin;NULL;84;70;65;70;51;410
+248;Tyranitar;Armor ;NULL;NULL;20;2020;Rock;Dark;Sand Stream;NULL;134;110;95;100;61;600
+248;Tyranitar;Armor Bird ;Mega;NULL;25;2550;Rock;Dark;Sand Stream;NULL;164;150;95;120;71;700
+249;Lugia;Diving ;NULL;"""Legendary""";52;2160;Psychic;Flying;Pressure;NULL;90;130;90;154;110;680
+250;Ho-Oh;Rainbow ;NULL;"""Legendary""";38;1990;Fire;Flying;Pressure;NULL;130;90;110;154;90;680
+251;Celebi;Time Travel ;NULL;"""Mythical""";6;50;Psychic;Grass;Natural Cure;NULL;100;100;100;100;100;600
+252;Treecko;Wood Gecko ;NULL;NULL;5;50;Grass;NULL;Overgrow;NULL;45;35;65;55;70;310
+253;Grovyle;Wood Gecko ;NULL;NULL;9;216;Grass;NULL;Overgrow;NULL;65;45;85;65;95;405
+254;Sceptile;Forest ;NULL;NULL;17;522;Grass;NULL;Overgrow;NULL;85;65;105;85;120;530
+254;Sceptile;Forest ;Mega;NULL;19;552;Grass;Dragon;Lightning Rod;NULL;110;75;145;85;145;630
+255;Torchic;Chick ;NULL;NULL;4;25;Fire;NULL;Blaze;NULL;60;40;70;50;45;310
+256;Combusken;Young Fowl ;NULL;NULL;9;195;Fire;Fighting;Blaze;NULL;85;60;85;60;55;405
+257;Blaziken;Blaze ;NULL;NULL;19;520;Fire;Fighting;Blaze;NULL;120;70;110;70;80;530
+257;Blaziken;Blaze ;Mega;NULL;19;520;Fire;Fighting;Speed Boost;NULL;160;80;130;80;100;630
+258;Mudkip;Mud Fish ;NULL;NULL;4;76;Water;NULL;Torrent;NULL;70;50;50;50;40;310
+259;Marshtomp;Mud Fish ;NULL;NULL;7;280;Water;Ground;Torrent;NULL;85;70;60;70;50;405
+260;Swampert;Mud Fish ;NULL;NULL;15;819;Water;Ground;Torrent;NULL;110;90;85;90;60;535
+260;Swampert;Mud Fish ;Mega;NULL;19;1020;Water;Ground;Swift Swim;NULL;150;110;95;110;70;635
+261;Poochyena;Bite ;NULL;NULL;5;136;Dark;NULL;Run Away;Quick Feet;55;35;30;30;35;220
+262;Mightyena;Bite ;NULL;NULL;10;370;Dark;NULL;Intimidate;Quick Feet;90;70;60;60;70;420
+263;Zigzagoon;Tiny Raccoon ;NULL;NULL;4;175;Normal;NULL;Pickup;Gluttony;30;41;30;41;60;240
+263;Zigzagoon;Tiny Raccoon ;Galar;NULL;4;175;Dark;Normal;Pickup;Gluttony;30;41;30;41;60;240
+264;Linoone;Rushing ;Galar;NULL;5;325;Dark;Normal;Pickup;Gluttony;70;61;50;61;100;420
+264;Linoone;Rushing ;NULL;NULL;5;325;Normal;NULL;Pickup;Gluttony;70;61;50;61;100;420
+265;Wurmple;Worm ;NULL;NULL;3;36;Bug;NULL;Shield Dust;NULL;45;35;20;30;20;195
+266;Silcoon;Cocoon ;NULL;NULL;6;100;Bug;NULL;Shed Skin;NULL;35;55;25;25;15;205
+267;Beautifly;Butterfly ;NULL;NULL;10;284;Bug;Flying;Swarm;NULL;70;50;100;50;65;395
+268;Cascoon;Cocoon ;NULL;NULL;7;115;Bug;NULL;Shed Skin;NULL;35;55;25;25;15;205
+269;Dustox;Poison Moth ;NULL;NULL;12;316;Bug;Poison;Shield Dust;NULL;50;70;50;90;65;385
+270;Lotad;Water Weed ;NULL;NULL;5;26;Water;Grass;Swift Swim;Rain Dish;30;30;40;50;30;220
+271;Lombre;Jolly ;NULL;NULL;12;325;Water;Grass;Swift Swim;Rain Dish;50;50;60;70;50;340
+272;Ludicolo;Carefree ;NULL;NULL;15;550;Water;Grass;Swift Swim;Rain Dish;70;70;90;100;70;480
+273;Seedot;Acorn ;NULL;NULL;5;40;Grass;NULL;Chlorophyll;Early Bird;40;50;30;30;30;220
+274;Nuzleaf;Wily ;NULL;NULL;10;280;Grass;Dark;Chlorophyll;Early Bird;70;40;60;40;60;340
+275;Shiftry;Wicked ;NULL;NULL;13;596;Grass;Dark;Chlorophyll;Early Bird;100;60;90;60;80;480
+276;Taillow;Tiny Swallow ;NULL;NULL;3;23;Normal;Flying;Guts;NULL;55;30;30;30;85;270
+277;Swellow;Swallow ;NULL;NULL;7;198;Normal;Flying;Guts;NULL;85;60;75;50;125;455
+278;Wingull;Seagull ;NULL;NULL;6;95;Water;Flying;Keen Eye;Hydration;30;30;55;30;85;270
+279;Pelipper;Water Bird ;NULL;NULL;12;280;Water;Flying;Keen Eye;Drizzle;50;100;95;70;65;440
+280;Ralts;Feeling ;NULL;NULL;4;66;Psychic;Fairy;Synchronize;Trace;25;25;45;35;40;198
+281;Kirlia;Emotion ;NULL;NULL;8;202;Psychic;Fairy;Synchronize;Trace;35;35;65;55;50;278
+282;Gardevoir;Embrace ;NULL;NULL;16;484;Psychic;Fairy;Synchronize;Trace;65;65;125;115;80;518
+282;Gardevoir;Embrace ;Mega;NULL;16;484;Psychic;Fairy;Pixilate;NULL;85;65;165;135;100;618
+283;Surskit;Pond Skater ;NULL;NULL;5;17;Bug;Water;Swift Swim;NULL;30;32;50;52;65;269
+284;Masquerain;Eyeball ;NULL;NULL;8;36;Bug;Flying;Intimidate;NULL;60;62;100;82;80;454
+285;Shroomish;Mushroom ;NULL;NULL;4;45;Grass;NULL;Effect Spore;Poison Heal;40;60;40;60;35;295
+286;Breloom;Mushroom ;NULL;NULL;12;392;Grass;Fighting;Effect Spore;Poison Heal;130;80;60;60;70;460
+287;Slakoth;Slacker ;NULL;NULL;8;240;Normal;NULL;Truant;NULL;60;60;35;35;30;280
+288;Vigoroth;Wild Monkey ;NULL;NULL;14;465;Normal;NULL;Vital Spirit;NULL;80;80;55;55;90;440
+289;Slaking;Lazy ;NULL;NULL;20;1305;Normal;NULL;Truant;NULL;160;100;95;65;100;670
+290;Nincada;Trainee ;NULL;NULL;5;55;Bug;Ground;Compound Eyes;NULL;45;90;30;30;40;266
+291;Ninjask;Ninja ;NULL;NULL;8;120;Bug;Flying;Speed Boost;NULL;90;45;50;50;160;456
+292;Shedinja;Shed ;NULL;NULL;8;12;Bug;Ghost;Wonder Guard;NULL;90;45;30;30;40;236
+293;Whismur;Whisper ;NULL;NULL;6;163;Normal;NULL;Soundproof;NULL;51;23;51;23;28;240
+294;Loudred;Big Voice ;NULL;NULL;10;405;Normal;NULL;Soundproof;NULL;71;43;71;43;48;360
+295;Exploud;Loud Noise ;NULL;NULL;15;840;Normal;NULL;Soundproof;NULL;91;63;91;73;68;490
+296;Makuhita;Guts ;NULL;NULL;10;864;Fighting;NULL;Thick Fat;Guts;60;30;20;30;25;237
+297;Hariyama;Arm Thrust ;NULL;NULL;23;2538;Fighting;NULL;Thick Fat;Guts;120;60;40;60;50;474
+298;Azurill;Polka Dot ;NULL;NULL;2;20;Normal;Fairy;Thick Fat;Huge Power;20;40;20;40;20;190
+299;Nosepass;Compass ;NULL;NULL;10;970;Rock;NULL;Sturdy;Magnet Pull;45;135;45;90;30;375
+300;Skitty;Kitten ;NULL;NULL;6;110;Normal;NULL;Cute Charm;Normalize;45;45;35;35;50;260
+301;Delcatty;Prim ;NULL;NULL;11;326;Normal;NULL;Cute Charm;Normalize;65;65;55;55;90;400
+302;Sableye;Darkness ;NULL;NULL;5;110;Dark;Ghost;Keen Eye;Stall;75;75;65;65;50;380
+302;Sableye;Darkness ;Mega;NULL;5;1610;Dark;Ghost;Magic Bounce;NULL;85;125;85;115;20;480
+303;Mawile;Deceiver ;Mega;NULL;10;235;Steel;Fairy;Huge Power;NULL;105;125;55;95;50;480
+303;Mawile;Deceiver ;NULL;NULL;6;115;Steel;Fairy;Hyper Cutter;Intimidate;85;85;55;55;50;380
+304;Aron;Iron Armor ;NULL;NULL;4;600;Steel;Rock;Sturdy;Rock Head;70;100;40;40;30;330
+305;Lairon;Iron Armor ;NULL;NULL;9;1200;Steel;Rock;Sturdy;Rock Head;90;140;50;50;40;430
+306;Aggron;Iron Armor ;NULL;NULL;21;3600;Steel;Rock;Sturdy;Rock Head;110;180;60;60;50;530
+306;Aggron;Iron Armor ;Mega;NULL;22;3950;Steel;NULL;Filter;NULL;140;230;60;80;50;630
+307;Meditite;Meditate ;NULL;NULL;6;112;Fighting;Psychic;Pure Power;NULL;40;55;40;55;60;280
+308;Medicham;Meditate ;NULL;NULL;13;315;Fighting;Psychic;Pure Power;NULL;60;75;60;75;80;410
+308;Medicham;Meditate ;Mega;NULL;13;315;Fighting;Psychic;Pure Power;NULL;100;85;80;85;100;510
+309;Electrike;Lightning ;NULL;NULL;6;152;Electric;NULL;Static;Lightning Rod;45;40;65;40;65;295
+310;Manectric;Discharge ;NULL;NULL;15;402;Electric;NULL;Static;Lightning Rod;75;60;105;60;105;475
+310;Manectric;Discharge ;Mega;NULL;18;440;Electric;NULL;Intimidate;NULL;75;80;135;80;135;575
+311;Plusle;Cheering ;NULL;NULL;4;42;Electric;NULL;Plus;NULL;50;40;85;75;95;405
+312;Minun;Cheering ;NULL;NULL;4;42;Electric;NULL;Minus;NULL;40;50;75;85;95;405
+313;Volbeat;Firefly ;NULL;NULL;7;177;Bug;NULL;Illuminate;Swarm;73;75;47;85;85;430
+314;Illumise;Firefly ;NULL;NULL;6;177;Bug;NULL;Oblivious;Tinted Lens;47;75;73;85;85;430
+315;Roselia;Thorn ;NULL;NULL;3;20;Grass;Poison;Natural Cure;Poison Point;60;45;100;80;65;400
+316;Gulpin;Stomach ;NULL;NULL;4;103;Poison;NULL;Liquid Ooze;Sticky Hold;43;53;43;53;40;302
+317;Swalot;Poison Bag ;NULL;NULL;17;800;Poison;NULL;Liquid Ooze;Sticky Hold;73;83;73;83;55;467
+318;Carvanha;Savage ;NULL;NULL;8;208;Water;Dark;Rough Skin;NULL;90;20;65;20;65;305
+319;Sharpedo;Brutal ;NULL;NULL;18;888;Water;Dark;Rough Skin;NULL;120;40;95;40;95;460
+319;Sharpedo;Brutal ;Mega;NULL;25;1303;Water;Dark;Strong Jaw;NULL;140;70;110;65;105;560
+320;Wailmer;Ball Whale ;NULL;NULL;20;1300;Water;NULL;Water Veil;Oblivious;70;35;70;35;60;400
+321;Wailord;Float Whale ;NULL;NULL;145;3980;Water;NULL;Water Veil;Oblivious;90;45;90;45;60;500
+322;Numel;Numb ;NULL;NULL;7;240;Fire;Ground;Oblivious;Simple;60;40;65;45;35;305
+323;Camerupt;Eruption ;NULL;NULL;19;2200;Fire;Ground;Magma Armor;Solid Rock;100;70;105;75;40;460
+323;Camerupt;Eruption ;Mega;NULL;25;3205;Fire;Ground;Sheer Force;NULL;120;100;145;105;20;560
+324;Torkoal;Coal ;NULL;NULL;5;804;Fire;NULL;White Smoke;Drought;85;140;85;70;20;470
+325;Spoink;Bounce ;NULL;NULL;7;306;Psychic;NULL;Thick Fat;Own Tempo;25;35;70;80;60;330
+326;Grumpig;Manipulate ;NULL;NULL;9;715;Psychic;NULL;Thick Fat;Own Tempo;45;65;90;110;80;470
+327;Spinda;Spot Panda ;NULL;NULL;11;50;Normal;NULL;Own Tempo;Tangled Feet;60;60;60;60;60;360
+328;Trapinch;Ant Pit ;NULL;NULL;7;150;Ground;NULL;Hyper Cutter;Arena Trap;100;45;45;45;10;290
+329;Vibrava;Vibration ;NULL;NULL;11;153;Ground;Dragon;Levitate;NULL;70;50;50;50;70;340
+330;Flygon;Mystic ;NULL;NULL;20;820;Ground;Dragon;Levitate;NULL;100;80;80;80;100;520
+331;Cacnea;Cactus ;NULL;NULL;4;513;Grass;NULL;Sand Veil;NULL;85;40;85;40;35;335
+332;Cacturne;Scarecrow ;NULL;NULL;13;774;Grass;Dark;Sand Veil;NULL;115;60;115;60;55;475
+333;Swablu;Cotton Bird ;NULL;NULL;4;12;Normal;Flying;Natural Cure;NULL;40;60;40;75;50;310
+334;Altaria;Humming ;NULL;NULL;11;206;Dragon;Flying;Natural Cure;NULL;70;90;70;105;80;490
+334;Altaria;Humming ;Mega;NULL;15;206;Dragon;Fairy;Pixilate;NULL;110;110;110;105;80;590
+335;Zangoose;Cat Ferret ;NULL;NULL;13;403;Normal;NULL;Immunity;NULL;115;60;60;60;90;458
+336;Seviper;Fang Snake ;NULL;NULL;27;525;Poison;NULL;Shed Skin;NULL;100;60;100;60;65;458
+337;Lunatone;Meteorite ;NULL;NULL;10;1680;Rock;Psychic;Levitate;NULL;55;65;95;85;70;460
+338;Solrock;Meteorite ;NULL;NULL;12;1540;Rock;Psychic;Levitate;NULL;95;85;55;65;70;460
+339;Barboach;Whiskers ;NULL;NULL;4;19;Water;Ground;Oblivious;Anticipation;48;43;46;41;60;288
+340;Whiscash;Whiskers ;NULL;NULL;9;236;Water;Ground;Oblivious;Anticipation;78;73;76;71;60;468
+341;Corphish;Ruffian ;NULL;NULL;6;115;Water;NULL;Hyper Cutter;Shell Armor;80;65;50;35;35;308
+342;Crawdaunt;Rogue ;NULL;NULL;11;328;Water;Dark;Hyper Cutter;Shell Armor;120;85;90;55;55;468
+343;Baltoy;Clay Doll ;NULL;NULL;5;215;Ground;Psychic;Levitate;NULL;40;55;40;70;55;300
+344;Claydol;Clay Doll ;NULL;NULL;15;1079;Ground;Psychic;Levitate;NULL;70;105;70;120;75;500
+345;Lileep;Sea Lily ;NULL;NULL;10;238;Rock;Grass;Suction Cups;NULL;41;77;61;87;23;355
+346;Cradily;Barnacle ;NULL;NULL;15;604;Rock;Grass;Suction Cups;NULL;81;97;81;107;43;495
+347;Anorith;Old Shrimp ;NULL;NULL;7;125;Rock;Bug;Battle Armor;NULL;95;50;40;50;75;355
+348;Armaldo;Plate ;NULL;NULL;15;682;Rock;Bug;Battle Armor;NULL;125;100;70;80;45;495
+349;Feebas;Fish ;NULL;NULL;6;74;Water;NULL;Swift Swim;Oblivious;15;20;10;55;80;200
+350;Milotic;Tender ;NULL;NULL;62;1620;Water;NULL;Marvel Scale;Competitive;60;79;100;125;81;540
+350;Milotic;Tender ;NULL;NULL;62;1620;Water;NULL;Marvel Scale;Competitive;60;79;100;125;81;540
+351;Castform;Weather ;NULL;NULL;3;8;Normal;NULL;Forecast;NULL;70;70;70;70;70;420
+351;Castform;Weather ;Sunny;NULL;3;8;Fire;NULL;Forecast;NULL;70;70;70;70;70;420
+351;Castform;Weather ;Rainy;NULL;3;8;Water;NULL;Forecast;NULL;70;70;70;70;70;420
+351;Castform;Weather ;Snowy;NULL;3;8;Ice;NULL;Forecast;NULL;70;70;70;70;70;420
+352;Kecleon;Color Swap ;NULL;NULL;10;220;Normal;NULL;Color Change;NULL;90;70;60;120;40;440
+353;Shuppet;Puppet ;NULL;NULL;6;23;Ghost;NULL;Insomnia;Frisk;75;35;63;33;45;295
+354;Banette;Marionette ;NULL;NULL;11;125;Ghost;NULL;Insomnia;Frisk;115;65;83;63;65;455
+354;Banette;Marionette ;Mega;NULL;12;130;Ghost;NULL;Prankster;NULL;165;75;93;83;75;555
+355;Duskull;Requiem ;NULL;NULL;8;150;Ghost;NULL;Levitate;NULL;40;90;30;90;25;295
+356;Dusclops;Beckon ;NULL;NULL;16;306;Ghost;NULL;Pressure;NULL;70;130;60;130;25;455
+357;Tropius;Fruit ;NULL;NULL;20;1000;Grass;Flying;Chlorophyll;Solar Power;68;83;72;87;51;460
+358;Chimecho;Wind Chime ;NULL;NULL;6;10;Psychic;NULL;Levitate;NULL;50;80;95;90;65;455
+359;Absol;Disaster ;NULL;NULL;12;470;Dark;NULL;Pressure;Super Luck;130;60;75;60;75;465
+359;Absol;Disaster ;Mega;NULL;12;490;Dark;NULL;Magic Bounce;NULL;150;60;115;60;115;565
+360;Wynaut;Bright ;NULL;NULL;6;140;Psychic;NULL;Shadow Tag;NULL;23;48;23;48;23;260
+361;Snorunt;Snow Hat ;NULL;NULL;7;168;Ice;NULL;Inner Focus;Ice Body;50;50;50;50;50;300
+362;Glalie;Face ;NULL;NULL;15;2565;Ice;NULL;Inner Focus;Ice Body;80;80;80;80;80;480
+362;Glalie;Face ;Mega;NULL;21;3502;Ice;NULL;Refrigerate;NULL;120;80;120;80;100;580
+363;Spheal;Clap ;NULL;NULL;8;395;Ice;Water;Thick Fat;Ice Body;40;50;55;50;25;290
+364;Sealeo;Ball Roll ;NULL;NULL;11;876;Ice;Water;Thick Fat;Ice Body;60;70;75;70;45;410
+365;Walrein;Ice Break ;NULL;NULL;14;1506;Ice;Water;Thick Fat;Ice Body;80;90;95;90;65;530
+366;Clamperl;Bivalve ;NULL;NULL;4;525;Water;NULL;Shell Armor;NULL;64;85;74;55;32;345
+367;Huntail;Deep Sea ;NULL;NULL;17;270;Water;NULL;Swift Swim;NULL;104;105;94;75;52;485
+368;Gorebyss;South Sea ;NULL;NULL;18;226;Water;NULL;Swift Swim;NULL;84;105;114;75;52;485
+369;Relicanth;Longevity ;NULL;NULL;10;234;Water;Rock;Swift Swim;Rock Head;90;130;45;65;55;485
+370;Luvdisc;Rendezvous ;NULL;NULL;6;87;Water;NULL;Swift Swim;NULL;30;55;40;65;97;330
+371;Bagon;Rock Head ;NULL;NULL;6;421;Dragon;NULL;Rock Head;NULL;75;60;40;30;50;300
+372;Shelgon;Endurance ;NULL;NULL;11;1105;Dragon;NULL;Rock Head;NULL;95;100;60;50;50;420
+373;Salamence;Dragon ;NULL;NULL;15;1026;Dragon;Flying;Intimidate;NULL;135;80;110;80;100;600
+373;Salamence;Dragon ;Mega;NULL;18;1126;Dragon;Flying;Aerilate;NULL;145;130;120;90;120;700
+374;Beldum;Iron Ball ;NULL;NULL;6;952;Steel;Psychic;Clear Body;NULL;55;80;35;60;30;300
+375;Metang;Iron Claw ;NULL;NULL;12;2025;Steel;Psychic;Clear Body;NULL;75;100;55;80;50;420
+376;Metagross;Iron Leg ;NULL;NULL;16;5500;Steel;Psychic;Clear Body;NULL;135;130;95;90;70;600
+376;Metagross;Iron Leg ;Mega;NULL;25;9429;Steel;Psychic;Tough Claws;NULL;145;150;105;110;110;700
+377;Regirock;Rock Peak ;NULL;"""Sub-Legendary""";17;2300;Rock;NULL;Clear Body;NULL;100;200;50;100;50;580
+378;Regice;Iceberg ;NULL;"""Sub-Legendary""";18;1750;Ice;NULL;Clear Body;NULL;50;100;100;200;50;580
+379;Registeel;Iron ;NULL;"""Sub-Legendary""";19;2050;Steel;NULL;Clear Body;NULL;75;150;75;150;50;580
+380;Latias;Eon ;NULL;"""Sub-Legendary""";14;400;Dragon;Psychic;Levitate;NULL;80;90;110;130;110;600
+380;Latias;Eon ;Mega;NULL;18;520;Dragon;Psychic;Levitate;NULL;100;120;140;150;110;700
+381;Latios;Eon ;Mega;NULL;23;700;Dragon;Psychic;Levitate;NULL;130;100;160;120;110;700
+381;Latios;Eon ;NULL;"""Sub-Legendary""";20;600;Dragon;Psychic;Levitate;NULL;90;80;130;110;110;600
+382;Kyogre;Sea Basin ;NULL;"""Legendary""";45;3520;Water;NULL;Drizzle;NULL;100;90;150;140;90;670
+382;Kyogre;Sea Basin ;Primal;"""Legendary""";98;4300;Water;NULL;Primordial Sea;NULL;150;90;180;160;90;770
+383;Groudon;Continent ;Primal;"""Legendary""";50;9997;Ground;Fire;Desolate Land;NULL;180;160;150;90;90;770
+383;Groudon;Continent ;NULL;"""Legendary""";35;9500;Ground;NULL;Drought;NULL;150;140;100;90;90;670
+384;Rayquaza;Sky High ;NULL;"""Legendary""";70;2065;Dragon;Flying;Air Lock;NULL;150;90;150;90;95;680
+384;Rayquaza;Sky High ;Mega;"""Legendary""";108;3920;Dragon;Flying;Delta Stream;NULL;180;100;180;100;115;780
+385;Jirachi;Wish ;NULL;"""Mythical""";3;11;Steel;Psychic;Serene Grace;NULL;100;100;100;100;100;600
+386;Deoxys;DNA ;NULL;"""Mythical""";17;608;Psychic;NULL;Pressure;NULL;150;50;150;50;150;600
+386;Deoxys;DNA ;Attack;"""Mythical""";17;608;Psychic;NULL;Pressure;NULL;180;20;180;20;150;600
+386;Deoxys;DNA ;Defense;"""Mythical""";17;608;Psychic;NULL;Pressure;NULL;70;160;70;160;90;600
+386;Deoxys;DNA ;Speed;"""Mythical""";17;608;Psychic;NULL;Pressure;NULL;95;90;95;90;180;600
+387;Turtwig;Tiny Leaf ;NULL;NULL;4;102;Grass;NULL;Overgrow;NULL;68;64;45;55;31;318
+388;Grotle;Grove ;NULL;NULL;11;970;Grass;NULL;Overgrow;NULL;89;85;55;65;36;405
+389;Torterra;Continent ;NULL;NULL;22;3100;Grass;Ground;Overgrow;NULL;109;105;75;85;56;525
+390;Chimchar;Chimp ;NULL;NULL;5;62;Fire;NULL;Blaze;NULL;58;44;58;44;61;309
+391;Monferno;Playful ;NULL;NULL;9;220;Fire;Fighting;Blaze;NULL;78;52;78;52;81;405
+392;Infernape;Flame ;NULL;NULL;12;550;Fire;Fighting;Blaze;NULL;104;71;104;71;108;534
+393;Piplup;Penguin ;NULL;NULL;4;52;Water;NULL;Torrent;NULL;51;53;61;56;40;314
+394;Prinplup;Penguin ;NULL;NULL;8;230;Water;NULL;Torrent;NULL;66;68;81;76;50;405
+395;Empoleon;Emperor ;NULL;NULL;17;845;Water;Steel;Torrent;NULL;86;88;111;101;60;530
+396;Starly;Starling ;NULL;NULL;3;20;Normal;Flying;Keen Eye;NULL;55;30;30;30;60;245
+397;Staravia;Starling ;NULL;NULL;6;155;Normal;Flying;Intimidate;NULL;75;50;40;40;80;340
+398;Staraptor;Predator ;NULL;NULL;12;249;Normal;Flying;Intimidate;NULL;120;70;50;60;100;485
+399;Bidoof;Plump Mouse ;NULL;NULL;5;200;Normal;NULL;Simple;Unaware;45;40;35;40;31;250
+400;Bibarel;Beaver ;NULL;NULL;10;315;Normal;Water;Simple;Unaware;85;60;55;60;71;410
+401;Kricketot;Cricket ;NULL;NULL;3;22;Bug;NULL;Shed Skin;NULL;25;41;25;41;25;194
+402;Kricketune;Cricket ;NULL;NULL;10;255;Bug;NULL;Swarm;NULL;85;51;55;51;65;384
+403;Shinx;Flash ;NULL;NULL;5;95;Electric;NULL;Rivalry;Intimidate;65;34;40;34;45;263
+404;Luxio;Spark ;NULL;NULL;9;305;Electric;NULL;Rivalry;Intimidate;85;49;60;49;60;363
+405;Luxray;Gleam Eyes ;NULL;NULL;14;420;Electric;NULL;Rivalry;Intimidate;120;79;95;79;70;523
+406;Budew;Bud ;NULL;NULL;2;12;Grass;Poison;Natural Cure;Poison Point;30;35;50;70;55;280
+407;Roserade;Bouquet ;NULL;NULL;9;145;Grass;Poison;Natural Cure;Poison Point;70;65;125;105;90;515
+408;Cranidos;Head Butt ;NULL;NULL;9;315;Rock;NULL;Mold Breaker;NULL;125;40;30;30;58;350
+409;Rampardos;Head Butt ;NULL;NULL;16;1025;Rock;NULL;Mold Breaker;NULL;165;60;65;50;58;495
+410;Shieldon;Shield ;NULL;NULL;5;570;Rock;Steel;Sturdy;NULL;42;118;42;88;30;350
+411;Bastiodon;Shield ;NULL;NULL;13;1495;Rock;Steel;Sturdy;NULL;52;168;47;138;30;495
+412;Burmy;Bagworm ;NULL;NULL;2;34;Bug;NULL;Shed Skin;NULL;29;45;29;45;36;224
+412;Burmy;Bagworm ;Sandy;NULL;2;34;Bug;NULL;Shed Skin;NULL;29;45;29;45;36;224
+412;Burmy;Bagworm ;Trash;NULL;2;34;Bug;NULL;Shed Skin;NULL;29;45;29;45;36;224
+413;Wormadam;Bagworm ;Sandy;NULL;5;65;Bug;Ground;Anticipation;NULL;79;105;59;85;36;424
+413;Wormadam;Bagworm ;Trash;NULL;5;65;Bug;Steel;Anticipation;NULL;69;95;69;95;36;424
+413;Wormadam;Bagworm ;NULL;NULL;5;65;Bug;Grass;Anticipation;NULL;59;85;79;105;36;424
+414;Mothim;Moth ;NULL;NULL;9;233;Bug;Flying;Swarm;NULL;94;50;94;50;66;424
+415;Combee;Tiny Bee ;NULL;NULL;3;55;Bug;Flying;Honey Gather;NULL;30;42;30;42;70;244
+416;Vespiquen;Beehive ;NULL;NULL;12;385;Bug;Flying;Pressure;NULL;80;102;80;102;40;474
+417;Pachirisu;EleSquirrel ;NULL;NULL;4;39;Electric;NULL;Run Away;Pickup;45;70;45;90;95;405
+418;Buizel;Sea Weasel ;NULL;NULL;7;295;Water;NULL;Swift Swim;NULL;65;35;60;30;85;330
+419;Floatzel;Sea Weasel ;NULL;NULL;11;335;Water;NULL;Swift Swim;NULL;105;55;85;50;115;495
+420;Cherubi;Cherry ;NULL;NULL;4;33;Grass;NULL;Chlorophyll;NULL;35;45;62;53;35;275
+421;Cherrim;Blossom ;NULL;NULL;5;93;Grass;NULL;Flower Gift;NULL;60;70;87;78;85;450
+422;Shellos;Sea Slug ;NULL;NULL;3;63;Water;NULL;Sticky Hold;Storm Drain;48;48;57;62;34;325
+423;Gastrodon;Sea Slug ;NULL;NULL;9;299;Water;Ground;Sticky Hold;Storm Drain;83;68;92;82;39;475
+424;Ambipom;Long Tail ;NULL;NULL;12;203;Normal;NULL;Technician;Pickup;100;66;60;66;115;482
+425;Drifloon;Balloon ;NULL;NULL;4;12;Ghost;Flying;Aftermath;Unburden;50;34;60;44;70;348
+426;Drifblim;Blimp ;NULL;NULL;12;150;Ghost;Flying;Aftermath;Unburden;80;44;90;54;80;498
+427;Buneary;Rabbit ;NULL;NULL;4;55;Normal;NULL;Run Away;Klutz;66;44;44;56;85;350
+428;Lopunny;Rabbit ;NULL;NULL;12;333;Normal;NULL;Cute Charm;Klutz;76;84;54;96;105;480
+428;Lopunny;Rabbit ;Mega;NULL;13;283;Normal;Fighting;Scrappy;NULL;136;94;54;96;135;580
+429;Mismagius;Magical ;NULL;NULL;9;44;Ghost;NULL;Levitate;NULL;60;60;105;105;105;495
+430;Honchkrow;Big Boss ;NULL;NULL;9;273;Dark;Flying;Insomnia;Super Luck;125;52;105;52;71;505
+431;Glameow;Catty ;NULL;NULL;5;39;Normal;NULL;Limber;Own Tempo;55;42;42;37;85;310
+432;Purugly;Tiger Cat ;NULL;NULL;10;438;Normal;NULL;Thick Fat;Own Tempo;82;64;64;59;112;452
+433;Chingling;Bell ;NULL;NULL;2;6;Psychic;NULL;Levitate;NULL;30;50;65;50;45;285
+434;Stunky;Skunk ;NULL;NULL;4;192;Poison;Dark;Stench;Aftermath;63;47;41;41;74;329
+435;Skuntank;Skunk ;NULL;NULL;10;380;Poison;Dark;Stench;Aftermath;93;67;71;61;84;479
+436;Bronzor;Bronze ;NULL;NULL;5;605;Steel;Psychic;Levitate;Heatproof;24;86;24;86;23;300
+437;Bronzong;Bronze Bell ;NULL;NULL;13;1870;Steel;Psychic;Levitate;Heatproof;89;116;79;116;33;500
+438;Bonsly;Bonsai ;NULL;NULL;5;150;Rock;NULL;Sturdy;Rock Head;80;95;10;45;10;290
+439;Mime Jr.;Mime ;NULL;NULL;6;130;Psychic;Fairy;Soundproof;Filter;25;45;70;90;60;310
+440;Happiny;Playhouse ;NULL;NULL;6;244;Normal;NULL;Natural Cure;Serene Grace;5;5;15;65;30;220
+441;Chatot;Music Note ;NULL;NULL;5;19;Normal;Flying;Keen Eye;Tangled Feet;65;45;92;42;91;411
+442;Spiritomb;Forbidden ;NULL;NULL;10;1080;Ghost;Dark;Pressure;NULL;92;108;92;108;35;485
+443;Gible;Land Shark ;NULL;NULL;7;205;Dragon;Ground;Sand Veil;NULL;70;45;40;45;42;300
+444;Gabite;Cave ;NULL;NULL;14;560;Dragon;Ground;Sand Veil;NULL;90;65;50;55;82;410
+445;Garchomp;Mach ;NULL;NULL;19;950;Dragon;Ground;Sand Veil;NULL;130;95;80;85;102;600
+445;Garchomp;Mach ;Mega;NULL;19;950;Dragon;Ground;Sand Force;NULL;170;115;120;95;92;700
+446;Munchlax;Big Eater ;NULL;NULL;6;1050;Normal;NULL;Pickup;Thick Fat;85;40;40;85;5;390
+447;Riolu;Emanation ;NULL;NULL;7;202;Fighting;NULL;Steadfast;Inner Focus;70;40;35;40;60;285
+448;Lucario;Aura ;NULL;NULL;12;540;Fighting;Steel;Steadfast;Inner Focus;110;70;115;70;90;525
+448;Lucario;Aura ;Mega;NULL;13;575;Fighting;Steel;Adaptability;NULL;145;88;140;70;112;625
+449;Hippopotas;Hippo ;NULL;NULL;8;495;Ground;NULL;Sand Stream;NULL;72;78;38;42;32;330
+450;Hippowdon;Heavyweight ;NULL;NULL;20;3000;Ground;NULL;Sand Stream;NULL;112;118;68;72;47;525
+451;Skorupi;Scorpion ;NULL;NULL;8;120;Poison;Bug;Battle Armor;Sniper;50;90;30;55;65;330
+452;Drapion;Ogre Scorpion ;NULL;NULL;13;615;Poison;Dark;Battle Armor;Sniper;90;110;60;75;95;500
+453;Croagunk;Toxic Mouth ;NULL;NULL;7;230;Poison;Fighting;Anticipation;Dry Skin;61;40;61;40;50;300
+454;Toxicroak;Toxic Mouth ;NULL;NULL;13;444;Poison;Fighting;Anticipation;Dry Skin;106;65;86;65;85;490
+455;Carnivine;Bug Catcher ;NULL;NULL;14;270;Grass;NULL;Levitate;NULL;100;72;90;72;46;454
+456;Finneon;Wing Fish ;NULL;NULL;4;70;Water;NULL;Swift Swim;Storm Drain;49;56;49;61;66;330
+457;Lumineon;Neon ;NULL;NULL;12;240;Water;NULL;Swift Swim;Storm Drain;69;76;69;86;91;460
+458;Mantyke;Kite ;NULL;NULL;10;650;Water;Flying;Swift Swim;Water Absorb;20;50;60;120;50;345
+459;Snover;Frost Tree ;NULL;NULL;10;505;Grass;Ice;Snow Warning;NULL;62;50;62;60;40;334
+460;Abomasnow;Frost Tree ;NULL;NULL;22;1355;Grass;Ice;Snow Warning;NULL;92;75;92;85;60;494
+460;Abomasnow;Frost Tree ;Mega;NULL;27;1850;Grass;Ice;Snow Warning;NULL;132;105;132;105;30;594
+461;Weavile;Sharp Claw ;NULL;NULL;11;340;Dark;Ice;Pressure;NULL;120;65;45;85;125;510
+462;Magnezone;Magnet Area ;NULL;NULL;12;1800;Electric;Steel;Magnet Pull;Sturdy;70;115;130;90;60;535
+462;Magnezone;Magnet Area ;NULL;NULL;12;1800;Electric;Steel;Magnet Pull;Sturdy;70;115;130;90;60;535
+463;Lickilicky;Licking ;NULL;NULL;17;1400;Normal;NULL;Own Tempo;Oblivious;85;95;80;95;50;515
+464;Rhyperior;Drill ;NULL;NULL;24;2828;Ground;Rock;Lightning Rod;Solid Rock;140;130;55;55;40;535
+465;Tangrowth;Vine ;NULL;NULL;20;1286;Grass;NULL;Chlorophyll;Leaf Guard;100;125;110;50;50;535
+466;Electivire;Thunderbolt ;NULL;NULL;18;1386;Electric;NULL;Motor Drive;NULL;123;67;95;85;95;540
+467;Magmortar;Blast ;NULL;NULL;16;680;Fire;NULL;Flame Body;NULL;95;67;125;95;83;540
+468;Togekiss;Jubilee ;NULL;NULL;15;380;Fairy;Flying;Hustle;Serene Grace;50;95;120;115;80;545
+469;Yanmega;Ogre Darner ;NULL;NULL;19;515;Bug;Flying;Speed Boost;Tinted Lens;76;86;116;56;95;515
+470;Leafeon;Verdant ;NULL;NULL;10;255;Grass;NULL;Leaf Guard;NULL;110;130;60;65;95;525
+470;Leafeon;Verdant ;NULL;NULL;10;255;Grass;NULL;Leaf Guard;NULL;110;130;60;65;95;525
+471;Glaceon;Fresh Snow ;NULL;NULL;8;259;Ice;NULL;Snow Cloak;NULL;60;110;130;95;65;525
+471;Glaceon;Fresh Snow ;NULL;NULL;8;259;Ice;NULL;Snow Cloak;NULL;60;110;130;95;65;525
+472;Gliscor;Fang Scorpion ;NULL;NULL;20;425;Ground;Flying;Hyper Cutter;Sand Veil;95;125;45;75;95;510
+473;Mamoswine;Twin Tusk ;NULL;NULL;25;2910;Ice;Ground;Oblivious;Snow Cloak;130;80;70;60;80;530
+474;Porygon-Z;Virtual ;NULL;NULL;9;340;Normal;NULL;Adaptability;Download;80;70;135;75;90;535
+475;Gallade;Blade ;NULL;NULL;16;520;Psychic;Fighting;Steadfast;Sharpness;125;65;65;115;80;518
+475;Gallade;Blade ;Mega;NULL;16;564;Psychic;Fighting;Inner Focus;NULL;165;95;65;115;110;618
+476;Probopass;Compass ;NULL;NULL;14;3400;Rock;Steel;Sturdy;Magnet Pull;55;145;75;150;40;525
+476;Probopass;Compass ;NULL;NULL;14;3400;Rock;Steel;Sturdy;Magnet Pull;55;145;75;150;40;525
+477;Dusknoir;Gripper ;NULL;NULL;22;1066;Ghost;NULL;Pressure;NULL;100;135;65;135;45;525
+478;Froslass;Snow Land ;NULL;NULL;13;266;Ice;Ghost;Snow Cloak;NULL;80;70;80;70;110;480
+479;Rotom;Plasma ;NULL;NULL;3;3;Electric;Ghost;Levitate;NULL;50;77;95;77;91;440
+479;Rotom;Plasma ;Heat;NULL;3;3;Electric;Fire;Levitate;NULL;65;107;105;107;86;520
+479;Rotom;Plasma ;Wash;NULL;3;3;Electric;Water;Levitate;NULL;65;107;105;107;86;520
+479;Rotom;Plasma ;Frost;NULL;3;3;Electric;Ice;Levitate;NULL;65;107;105;107;86;520
+479;Rotom;Plasma ;Fan;NULL;3;3;Electric;Flying;Levitate;NULL;65;107;105;107;86;520
+479;Rotom;Plasma ;Mow;NULL;3;3;Electric;Grass;Levitate;NULL;65;107;105;107;86;520
+480;Uxie;Knowledge ;NULL;"""Sub-Legendary""";3;3;Psychic;NULL;Levitate;NULL;75;130;75;130;95;580
+481;Mesprit;Emotion ;NULL;"""Sub-Legendary""";3;3;Psychic;NULL;Levitate;NULL;105;105;105;105;80;580
+482;Azelf;Willpower ;NULL;"""Sub-Legendary""";3;3;Psychic;NULL;Levitate;NULL;125;70;125;70;115;580
+483;Dialga;Temporal ;NULL;"""Legendary""";54;6830;Steel;Dragon;Pressure;NULL;120;120;150;100;90;680
+483;Dialga;Temporal ;Origin;NULL;70;8500;Steel;Dragon;Pressure;NULL;100;120;150;120;90;680
+484;Palkia;Spatial ;Origin;NULL;63;6600;Water;Dragon;Pressure;NULL;100;100;150;120;120;680
+484;Palkia;Spatial ;NULL;"""Legendary""";42;3360;Water;Dragon;Pressure;NULL;120;100;150;120;100;680
+485;Heatran;Lava Dome ;NULL;"""Sub-Legendary""";17;4300;Fire;Steel;Flash Fire;NULL;90;106;130;106;77;600
+486;Regigigas;Colossal ;NULL;"""Sub-Legendary""";37;4200;Normal;NULL;Slow Start;NULL;160;110;80;110;100;670
+487;Giratina;Renegade ;NULL;"""Legendary""";45;7500;Ghost;Dragon;Pressure;NULL;100;120;100;120;90;680
+487;Giratina;Renegade ;Origin;"""Legendary""";69;6500;Ghost;Dragon;Levitate;NULL;120;100;120;100;90;680
+488;Cresselia;Lunar ;NULL;"""Sub-Legendary""";15;856;Psychic;NULL;Levitate;NULL;70;110;75;120;85;580
+489;Phione;Sea Drifter ;NULL;"""Mythical""";4;31;Water;NULL;Hydration;NULL;80;80;80;80;80;480
+490;Manaphy;Seafaring ;NULL;"""Mythical""";3;14;Water;NULL;Hydration;NULL;100;100;100;100;100;600
+491;Darkrai;Pitch-Black ;NULL;"""Mythical""";15;505;Dark;NULL;Bad Dreams;NULL;90;90;135;90;125;600
+492;Shaymin;Gratitude ;NULL;"""Mythical""";2;21;Grass;NULL;Natural Cure;NULL;100;100;100;100;100;600
+492;Shaymin;Gratitude ;Sky;"""Mythical""";4;52;Grass;Flying;Serene Grace;NULL;103;75;120;75;127;600
+493;Arceus;Alpha ;NULL;"""Mythical""";32;3200;Normal;NULL;Multitype;NULL;120;120;120;120;120;720
+494;Victini;Victory ;NULL;"""Mythical""";4;40;Psychic;Fire;Victory Star;NULL;100;100;100;100;100;600
+495;Snivy;Grass Snake ;NULL;NULL;6;81;Grass;NULL;Overgrow;NULL;45;55;45;55;63;308
+496;Servine;Grass Snake ;NULL;NULL;8;160;Grass;NULL;Overgrow;NULL;60;75;60;75;83;413
+497;Serperior;Regal ;NULL;NULL;33;630;Grass;NULL;Overgrow;NULL;75;95;75;95;113;528
+498;Tepig;Fire Pig ;NULL;NULL;5;99;Fire;NULL;Blaze;NULL;63;45;45;45;45;308
+499;Pignite;Fire Pig ;NULL;NULL;10;555;Fire;Fighting;Blaze;NULL;93;55;70;55;55;418
+500;Emboar;Mega Fire Pig ;NULL;NULL;16;1500;Fire;Fighting;Blaze;NULL;123;65;100;65;65;528
+501;Oshawott;Sea Otter ;NULL;NULL;5;59;Water;NULL;Torrent;NULL;55;45;63;45;45;308
+502;Dewott;Discipline ;NULL;NULL;8;245;Water;NULL;Torrent;NULL;75;60;83;60;60;413
+503;Samurott;Formidable ;NULL;NULL;15;946;Water;NULL;Torrent;NULL;100;85;108;70;70;528
+503;Samurott;Formidable ;Hisui;NULL;15;582;Water;Dark;Torrent;NULL;108;80;100;65;85;528
+504;Patrat;Scout ;NULL;NULL;5;116;Normal;NULL;Run Away;Keen Eye;55;39;35;39;42;255
+505;Watchog;Lookout ;NULL;NULL;11;270;Normal;NULL;Illuminate;Keen Eye;85;69;60;69;77;420
+506;Lillipup;Puppy ;NULL;NULL;4;41;Normal;NULL;Vital Spirit;Pickup;60;45;25;45;55;275
+507;Herdier;Loyal Dog ;NULL;NULL;9;147;Normal;NULL;Intimidate;Sand Rush;80;65;35;65;60;370
+508;Stoutland;Big-Hearted ;NULL;NULL;12;610;Normal;NULL;Intimidate;Sand Rush;110;90;45;90;80;500
+509;Purrloin;Devious ;NULL;NULL;4;101;Dark;NULL;Limber;Unburden;50;37;50;37;66;281
+510;Liepard;Cruel ;NULL;NULL;11;375;Dark;NULL;Limber;Unburden;88;50;88;50;106;446
+511;Pansage;Grass Monkey ;NULL;NULL;6;105;Grass;NULL;Gluttony;NULL;53;48;53;48;64;316
+512;Simisage;Thorn Monkey ;NULL;NULL;11;305;Grass;NULL;Gluttony;NULL;98;63;98;63;101;498
+513;Pansear;High Temp ;NULL;NULL;6;110;Fire;NULL;Gluttony;NULL;53;48;53;48;64;316
+514;Simisear;Ember ;NULL;NULL;10;280;Fire;NULL;Gluttony;NULL;98;63;98;63;101;498
+515;Panpour;Spray ;NULL;NULL;6;135;Water;NULL;Gluttony;NULL;53;48;53;48;64;316
+516;Simipour;Geyser ;NULL;NULL;10;290;Water;NULL;Gluttony;NULL;98;63;98;63;101;498
+517;Munna;Dream Eater ;NULL;NULL;6;233;Psychic;NULL;Forewarn;Synchronize;25;45;67;55;24;292
+518;Musharna;Drowsing ;NULL;NULL;11;605;Psychic;NULL;Forewarn;Synchronize;55;85;107;95;29;487
+519;Pidove;Tiny Pigeon ;NULL;NULL;3;21;Normal;Flying;Big Pecks;Super Luck;55;50;36;30;43;264
+520;Tranquill;Wild Pigeon ;NULL;NULL;6;150;Normal;Flying;Big Pecks;Super Luck;77;62;50;42;65;358
+521;Unfezant;Proud ;NULL;NULL;12;290;Normal;Flying;Big Pecks;Super Luck;115;80;65;55;93;488
+522;Blitzle;Electrified ;NULL;NULL;8;298;Electric;NULL;Lightning Rod;Motor Drive;60;32;50;32;76;295
+523;Zebstrika;Thunderbolt ;NULL;NULL;16;795;Electric;NULL;Lightning Rod;Motor Drive;100;63;80;63;116;497
+524;Roggenrola;Mantle ;NULL;NULL;4;180;Rock;NULL;Sturdy;Weak Armor;75;85;25;25;15;280
+525;Boldore;Ore ;NULL;NULL;9;1020;Rock;NULL;Sturdy;Weak Armor;105;105;50;40;20;390
+526;Gigalith;Compressed ;NULL;NULL;17;2600;Rock;NULL;Sturdy;Sand Stream;135;130;60;80;25;515
+527;Woobat;Bat ;NULL;NULL;4;21;Psychic;Flying;Unaware;Klutz;45;43;55;43;72;323
+528;Swoobat;Courting ;NULL;NULL;9;105;Psychic;Flying;Unaware;Klutz;57;55;77;55;114;425
+529;Drilbur;Mole ;NULL;NULL;3;85;Ground;NULL;Sand Rush;Sand Force;85;40;30;45;68;328
+530;Excadrill;Subterrene ;NULL;NULL;7;404;Ground;Steel;Sand Rush;Sand Force;135;60;50;65;88;508
+531;Audino;Hearing ;NULL;NULL;11;310;Normal;NULL;Healer;Regenerator;60;86;60;86;50;445
+531;Audino;Hearing ;Mega;NULL;15;320;Normal;Fairy;Healer;NULL;60;126;80;126;50;545
+532;Timburr;Muscular ;NULL;NULL;6;125;Fighting;NULL;Guts;Sheer Force;80;55;25;35;35;305
+533;Gurdurr;Muscular ;NULL;NULL;12;400;Fighting;NULL;Guts;Sheer Force;105;85;40;50;40;405
+534;Conkeldurr;Muscular ;NULL;NULL;14;870;Fighting;NULL;Guts;Sheer Force;140;95;55;65;45;505
+535;Tympole;Tadpole ;NULL;NULL;5;45;Water;NULL;Swift Swim;Hydration;50;40;50;40;64;294
+536;Palpitoad;Vibration ;NULL;NULL;8;170;Water;Ground;Swift Swim;Hydration;65;55;65;55;69;384
+537;Seismitoad;Vibration ;NULL;NULL;15;620;Water;Ground;Swift Swim;Poison Touch;95;75;85;75;74;509
+538;Throh;Judo ;NULL;NULL;13;555;Fighting;NULL;Guts;Inner Focus;100;85;30;85;45;465
+539;Sawk;Karate ;NULL;NULL;14;410;Fighting;NULL;Sturdy;Inner Focus;125;75;30;75;85;465
+540;Sewaddle;Sewing ;NULL;NULL;3;25;Bug;Grass;Swarm;Chlorophyll;53;70;40;60;42;310
+541;Swadloon;Leaf-Wrapped ;NULL;NULL;5;73;Bug;Grass;Leaf Guard;Chlorophyll;63;90;50;80;42;380
+542;Leavanny;Nurturing ;NULL;NULL;12;205;Bug;Grass;Swarm;Chlorophyll;103;80;70;80;92;500
+543;Venipede;Centipede ;NULL;NULL;4;53;Bug;Poison;Poison Point;Swarm;45;59;30;39;57;260
+544;Whirlipede;Curlipede ;NULL;NULL;12;585;Bug;Poison;Poison Point;Swarm;55;99;40;79;47;360
+545;Scolipede;Megapede ;NULL;NULL;25;2005;Bug;Poison;Poison Point;Swarm;100;89;55;69;112;485
+546;Cottonee;Cotton Puff ;NULL;NULL;3;6;Grass;Fairy;Prankster;Infiltrator;27;60;37;50;66;280
+547;Whimsicott;Windveiled ;NULL;NULL;7;66;Grass;Fairy;Prankster;Infiltrator;67;85;77;75;116;480
+548;Petilil;Bulb ;NULL;NULL;5;66;Grass;NULL;Chlorophyll;Own Tempo;35;50;70;50;30;280
+549;Lilligant;Flowering ;NULL;NULL;11;163;Grass;NULL;Chlorophyll;Own Tempo;60;75;110;75;90;480
+549;Lilligant;Spinning ;Hisui;NULL;12;192;Grass;Fighting;Chlorophyll;Hustle;105;75;50;75;105;480
+550;Basculin;Mellow ;White-Striped;NULL;10;180;Water;NULL;Rattled;Adaptability;92;65;80;55;98;460
+550;Basculin;Hostile ;Blue-Striped;NULL;10;180;Water;NULL;Rock Head;Adaptability;92;65;80;55;98;460
+550;Basculin;Hostile ;NULL;NULL;10;180;Water;NULL;Reckless;Adaptability;92;65;80;55;98;460
+551;Sandile;Desert Croc ;NULL;NULL;7;152;Ground;Dark;Intimidate;Moxie;72;35;35;35;65;292
+552;Krokorok;Desert Croc ;NULL;NULL;10;334;Ground;Dark;Intimidate;Moxie;82;45;45;45;74;351
+553;Krookodile;Intimidation ;NULL;NULL;15;963;Ground;Dark;Intimidate;Moxie;117;80;65;70;92;519
+554;Darumaka;Zen Charm ;NULL;NULL;6;375;Fire;NULL;Hustle;NULL;90;45;15;45;50;315
+554;Darumaka;Zen Charm ;Galar;NULL;7;400;Ice;NULL;Hustle;NULL;90;45;15;45;50;315
+555;Darmanitan;Blazing ;Zen;NULL;13;929;Fire;Psychic;Zen Mode;NULL;30;105;140;105;55;540
+555;Darmanitan;Zen Charm ;Galar;NULL;17;1200;Ice;NULL;Gorilla Tactics;NULL;140;55;30;55;95;480
+555;Darmanitan;Zen Charm ;Galar Zen;NULL;17;1200;Ice;Fire;Zen Mode;NULL;160;55;30;55;135;540
+555;Darmanitan;Blazing ;NULL;NULL;13;929;Fire;NULL;Sheer Force;NULL;140;55;30;55;95;480
+556;Maractus;Cactus ;NULL;NULL;10;280;Grass;NULL;Water Absorb;Chlorophyll;86;67;106;67;60;461
+557;Dwebble;Rock Inn ;NULL;NULL;3;145;Bug;Rock;Sturdy;Shell Armor;65;85;35;35;55;325
+558;Crustle;Stone Home ;NULL;NULL;14;2000;Bug;Rock;Sturdy;Shell Armor;105;125;65;75;45;485
+559;Scraggy;Shedding ;NULL;NULL;6;118;Dark;Fighting;Shed Skin;Moxie;75;70;35;70;48;348
+560;Scrafty;Hoodlum ;NULL;NULL;11;300;Dark;Fighting;Shed Skin;Moxie;90;115;45;115;58;488
+561;Sigilyph;Avianoid ;NULL;NULL;14;140;Psychic;Flying;Wonder Skin;Magic Guard;58;80;103;80;97;490
+562;Yamask;Spirit ;NULL;NULL;5;15;Ghost;NULL;Mummy;NULL;30;85;55;65;30;303
+562;Yamask;Spirit ;Galar;NULL;5;15;Ground;Ghost;Wandering Spirit;NULL;55;85;30;65;30;303
+563;Cofagrigus;Coffin ;NULL;NULL;17;765;Ghost;NULL;Mummy;NULL;50;145;95;105;30;483
+564;Tirtouga;Prototurtle ;NULL;NULL;7;165;Water;Rock;Solid Rock;Sturdy;78;103;53;45;22;355
+565;Carracosta;Prototurtle ;NULL;NULL;12;810;Water;Rock;Solid Rock;Sturdy;108;133;83;65;32;495
+566;Archen;First Bird ;NULL;NULL;5;95;Rock;Flying;Defeatist;NULL;112;45;74;45;70;401
+567;Archeops;First Bird ;NULL;NULL;14;320;Rock;Flying;Defeatist;NULL;140;65;112;65;110;567
+568;Trubbish;Trash Bag ;NULL;NULL;6;310;Poison;NULL;Stench;Sticky Hold;50;62;40;62;65;329
+569;Garbodor;Trash Heap ;NULL;NULL;19;1073;Poison;NULL;Stench;Weak Armor;95;82;60;82;75;474
+569;Garbodor;Trash Heap ;Gigantamax;NULL;210;0;Poison;NULL;Stench;Weak Armor;95;82;60;82;75;474
+570;Zorua;Spiteful Fox ;Hisui;NULL;7;125;Normal;Ghost;Illusion;NULL;60;40;85;40;70;330
+570;Zorua;Tricky Fox ;NULL;NULL;7;125;Dark;NULL;Illusion;NULL;65;40;80;40;65;330
+571;Zoroark;Illusion Fox ;NULL;NULL;16;811;Dark;NULL;Illusion;NULL;105;60;120;60;105;510
+571;Zoroark;Baneful Fox ;Hisui;NULL;16;730;Normal;Ghost;Illusion;NULL;105;60;120;60;105;510
+572;Minccino;Chinchilla ;NULL;NULL;4;58;Normal;NULL;Cute Charm;Technician;50;40;40;40;75;300
+573;Cinccino;Scarf ;NULL;NULL;5;75;Normal;NULL;Cute Charm;Technician;95;60;65;60;115;470
+574;Gothita;Fixation ;NULL;NULL;4;58;Psychic;NULL;Frisk;Competitive;30;50;55;65;45;290
+575;Gothorita;Manipulate ;NULL;NULL;7;180;Psychic;NULL;Frisk;Competitive;45;70;75;85;55;390
+576;Gothitelle;Astral Body ;NULL;NULL;15;440;Psychic;NULL;Frisk;Competitive;55;95;95;110;65;490
+577;Solosis;Cell ;NULL;NULL;3;10;Psychic;NULL;Overcoat;Magic Guard;30;40;105;50;20;290
+578;Duosion;Mitosis ;NULL;NULL;6;80;Psychic;NULL;Overcoat;Magic Guard;40;50;125;60;30;370
+579;Reuniclus;Multiplying ;NULL;NULL;10;201;Psychic;NULL;Overcoat;Magic Guard;65;75;125;85;30;490
+580;Ducklett;Water Bird ;NULL;NULL;5;55;Water;Flying;Keen Eye;Big Pecks;44;50;44;50;55;305
+581;Swanna;White Bird ;NULL;NULL;13;242;Water;Flying;Keen Eye;Big Pecks;87;63;87;63;98;473
+582;Vanillite;Fresh Snow ;NULL;NULL;4;57;Ice;NULL;Ice Body;Snow Cloak;50;50;65;60;44;305
+583;Vanillish;Icy Snow ;NULL;NULL;11;410;Ice;NULL;Ice Body;Snow Cloak;65;65;80;75;59;395
+584;Vanilluxe;Snowstorm ;NULL;NULL;13;575;Ice;NULL;Ice Body;Snow Warning;95;85;110;95;79;535
+585;Deerling;Season ;NULL;NULL;6;195;Normal;Grass;Chlorophyll;Sap Sipper;60;50;40;50;75;335
+586;Sawsbuck;Season ;NULL;NULL;19;925;Normal;Grass;Chlorophyll;Sap Sipper;100;70;60;70;95;475
+587;Emolga;Sky Squirrel ;NULL;NULL;4;50;Electric;Flying;Static;NULL;75;60;75;60;103;428
+588;Karrablast;Clamping ;NULL;NULL;5;59;Bug;NULL;Swarm;Shed Skin;75;45;40;45;60;315
+589;Escavalier;Cavalry ;NULL;NULL;10;330;Bug;Steel;Swarm;Shell Armor;135;105;60;105;20;495
+590;Foongus;Mushroom ;NULL;NULL;2;10;Grass;Poison;Effect Spore;NULL;55;45;55;55;15;294
+591;Amoonguss;Mushroom ;NULL;NULL;6;105;Grass;Poison;Effect Spore;NULL;85;70;85;80;30;464
+592;Frillish;Floating ;NULL;NULL;12;330;Water;Ghost;Water Absorb;Cursed Body;40;50;65;85;40;335
+593;Jellicent;Floating ;NULL;NULL;22;1350;Water;Ghost;Water Absorb;Cursed Body;60;70;85;105;60;480
+594;Alomomola;Caring ;NULL;NULL;12;316;Water;NULL;Healer;Hydration;75;80;40;45;65;470
+595;Joltik;Attaching ;NULL;NULL;1;6;Bug;Electric;Compound Eyes;Unnerve;47;50;57;50;65;319
+596;Galvantula;EleSpider ;NULL;NULL;8;143;Bug;Electric;Compound Eyes;Unnerve;77;60;97;60;108;472
+597;Ferroseed;Thorn Seed ;NULL;NULL;6;188;Grass;Steel;Iron Barbs;NULL;50;91;24;86;10;305
+598;Ferrothorn;Thorn Pod ;NULL;NULL;10;1100;Grass;Steel;Iron Barbs;NULL;94;131;54;116;20;489
+599;Klink;Gear ;NULL;NULL;3;210;Steel;NULL;Plus;Minus;55;70;45;60;30;300
+600;Klang;Gear ;NULL;NULL;6;510;Steel;NULL;Plus;Minus;80;95;70;85;50;440
+601;Klinklang;Gear ;NULL;NULL;6;810;Steel;NULL;Plus;Minus;100;115;70;85;90;520
+602;Tynamo;EleFish ;NULL;NULL;2;3;Electric;NULL;Levitate;NULL;55;40;45;40;60;275
+603;Eelektrik;EleFish ;NULL;NULL;12;220;Electric;NULL;Levitate;NULL;85;70;75;70;40;405
+604;Eelektross;EleFish ;NULL;NULL;21;805;Electric;NULL;Levitate;NULL;115;80;105;80;50;515
+605;Elgyem;Cerebral ;NULL;NULL;5;90;Psychic;NULL;Telepathy;Synchronize;55;55;85;55;30;335
+606;Beheeyem;Cerebral ;NULL;NULL;10;345;Psychic;NULL;Telepathy;Synchronize;75;75;125;95;40;485
+607;Litwick;Candle ;NULL;NULL;3;31;Ghost;Fire;Flash Fire;Flame Body;30;55;65;55;20;275
+608;Lampent;Lamp ;NULL;NULL;6;130;Ghost;Fire;Flash Fire;Flame Body;40;60;95;60;55;370
+609;Chandelure;Luring ;NULL;NULL;10;343;Ghost;Fire;Flash Fire;Flame Body;55;90;145;90;80;520
+610;Axew;Tusk ;NULL;NULL;6;180;Dragon;NULL;Rivalry;Mold Breaker;87;60;30;40;57;320
+611;Fraxure;Axe Jaw ;NULL;NULL;10;360;Dragon;NULL;Rivalry;Mold Breaker;117;70;40;50;67;410
+612;Haxorus;Axe Jaw ;NULL;NULL;18;1055;Dragon;NULL;Rivalry;Mold Breaker;147;90;60;70;97;540
+613;Cubchoo;Chill ;NULL;NULL;5;85;Ice;NULL;Snow Cloak;Slush Rush;70;40;60;40;40;305
+614;Beartic;Freezing ;NULL;NULL;26;2600;Ice;NULL;Snow Cloak;Slush Rush;130;80;70;80;50;505
+615;Cryogonal;Crystallizing ;NULL;NULL;11;1480;Ice;NULL;Levitate;NULL;50;50;95;135;105;515
+616;Shelmet;Snail ;NULL;NULL;4;77;Bug;NULL;Hydration;Shell Armor;40;85;40;65;25;305
+617;Accelgor;Shell Out ;NULL;NULL;8;253;Bug;NULL;Hydration;Sticky Hold;70;40;100;60;145;495
+618;Stunfisk;Trap ;NULL;NULL;7;110;Ground;Electric;Static;Limber;66;84;81;99;32;471
+618;Stunfisk;Trap ;Galar;NULL;7;205;Ground;Steel;Mimicry;NULL;81;99;66;84;32;471
+619;Mienfoo;Martial Arts ;NULL;NULL;9;200;Fighting;NULL;Inner Focus;Regenerator;85;50;55;50;65;350
+620;Mienshao;Martial Arts ;NULL;NULL;14;355;Fighting;NULL;Inner Focus;Regenerator;125;60;95;60;105;510
+621;Druddigon;Cave ;NULL;NULL;16;1390;Dragon;NULL;Rough Skin;Sheer Force;120;90;60;90;48;485
+622;Golett;Automaton ;NULL;NULL;10;920;Ground;Ghost;Iron Fist;Klutz;74;50;35;50;35;303
+623;Golurk;Automaton ;NULL;NULL;28;3300;Ground;Ghost;Iron Fist;Klutz;124;80;55;80;55;483
+624;Pawniard;Sharp Blade ;NULL;NULL;5;102;Dark;Steel;Defiant;Inner Focus;85;70;40;40;60;340
+625;Bisharp;Sword Blade ;NULL;NULL;16;700;Dark;Steel;Defiant;Inner Focus;125;100;60;70;70;490
+626;Bouffalant;Bash Buffalo ;NULL;NULL;16;945;Normal;NULL;Reckless;Sap Sipper;110;95;40;95;55;490
+627;Rufflet;Eaglet ;NULL;NULL;5;105;Normal;Flying;Keen Eye;Sheer Force;83;50;37;50;60;350
+628;Braviary;Valiant ;NULL;NULL;15;410;Normal;Flying;Keen Eye;Sheer Force;123;75;57;75;80;510
+628;Braviary;Battle Cry ;Hisui;NULL;17;434;Psychic;Flying;Keen Eye;Sheer Force;83;70;112;70;65;510
+629;Vullaby;Diapered ;NULL;NULL;5;90;Dark;Flying;Big Pecks;Overcoat;55;75;45;65;60;370
+630;Mandibuzz;Bone Vulture ;NULL;NULL;12;395;Dark;Flying;Big Pecks;Overcoat;65;105;55;95;80;510
+631;Heatmor;Anteater ;NULL;NULL;14;580;Fire;NULL;Gluttony;Flash Fire;97;66;105;66;65;484
+632;Durant;Iron Ant ;NULL;NULL;3;330;Bug;Steel;Swarm;Hustle;109;112;48;48;109;484
+633;Deino;Irate ;NULL;NULL;8;173;Dark;Dragon;Hustle;NULL;65;50;45;50;38;300
+634;Zweilous;Hostile ;NULL;NULL;14;500;Dark;Dragon;Hustle;NULL;85;70;65;70;58;420
+635;Hydreigon;Brutal ;NULL;NULL;18;1600;Dark;Dragon;Levitate;NULL;105;90;125;90;98;600
+636;Larvesta;Torch ;NULL;NULL;11;288;Bug;Fire;Flame Body;NULL;85;55;50;55;60;360
+637;Volcarona;Sun ;NULL;NULL;16;460;Bug;Fire;Flame Body;NULL;60;65;135;105;100;550
+638;Cobalion;Iron Will ;NULL;"""Sub-Legendary""";21;2500;Steel;Fighting;Justified;NULL;90;129;90;72;108;580
+639;Terrakion;Cavern ;NULL;"""Sub-Legendary""";19;2600;Rock;Fighting;Justified;NULL;129;90;72;90;108;580
+640;Virizion;Grassland ;NULL;"""Sub-Legendary""";20;2000;Grass;Fighting;Justified;NULL;90;72;90;129;108;580
+641;Tornadus;Cyclone ;NULL;"""Sub-Legendary""";15;630;Flying;NULL;Prankster;NULL;115;70;125;80;111;580
+641;Tornadus;Cyclone ;Therian;"""Sub-Legendary""";15;630;Flying;NULL;Regenerator;NULL;100;80;110;90;121;580
+642;Thundurus;Bolt Strike ;Therian;"""Sub-Legendary""";30;610;Electric;Flying;Volt Absorb;NULL;105;70;145;80;101;580
+642;Thundurus;Bolt Strike ;NULL;"""Sub-Legendary""";15;610;Electric;Flying;Prankster;NULL;115;70;125;80;111;580
+643;Reshiram;Vast White ;NULL;"""Legendary""";32;3300;Dragon;Fire;Turboblaze;NULL;120;100;150;120;90;680
+644;Zekrom;Deep Black ;NULL;"""Legendary""";29;3450;Dragon;Electric;Teravolt;NULL;150;120;120;100;90;680
+645;Landorus;Abundance ;NULL;"""Sub-Legendary""";15;680;Ground;Flying;Sand Force;NULL;125;90;115;80;101;600
+645;Landorus;Abundance ;Therian;"""Sub-Legendary""";13;680;Ground;Flying;Intimidate;NULL;145;90;105;80;91;600
+646;Kyurem;Boundary ;White;"""Legendary""";36;3250;Dragon;Ice;Turboblaze;NULL;120;90;170;100;95;700
+646;Kyurem;Boundary ;Black;"""Legendary""";33;3250;Dragon;Ice;Teravolt;NULL;170;100;120;90;95;700
+646;Kyurem;Boundary ;NULL;"""Legendary""";30;3250;Dragon;Ice;Pressure;NULL;130;90;130;90;95;660
+647;Keldeo;Colt ;NULL;"""Mythical""";14;485;Water;Fighting;Justified;NULL;72;90;129;90;108;580
+648;Meloetta;Melody ;NULL;"""Mythical""";6;65;Normal;Psychic;Serene Grace;NULL;77;77;128;128;90;600
+648;Meloetta;Melody ;Pirouette;"""Mythical""";6;65;Normal;Fighting;Serene Grace;NULL;128;90;77;77;128;600
+649;Genesect;Paleozoic ;NULL;"""Mythical""";15;825;Bug;Steel;Download;NULL;120;95;120;95;99;600
+650;Chespin;Spiky Nut ;NULL;NULL;4;90;Grass;NULL;Overgrow;NULL;61;65;48;45;38;313
+651;Quilladin;Spiky Armor ;NULL;NULL;7;290;Grass;NULL;Overgrow;NULL;78;95;56;58;57;405
+652;Chesnaught;Spiky Armor ;NULL;NULL;16;900;Grass;Fighting;Overgrow;NULL;107;122;74;75;64;530
+653;Fennekin;Fox ;NULL;NULL;4;94;Fire;NULL;Blaze;NULL;45;40;62;60;60;307
+654;Braixen;Fox ;NULL;NULL;10;145;Fire;NULL;Blaze;NULL;59;58;90;70;73;409
+655;Delphox;Fox ;NULL;NULL;15;390;Fire;Psychic;Blaze;NULL;69;72;114;100;104;534
+656;Froakie;Bubble Frog ;NULL;NULL;3;70;Water;NULL;Torrent;NULL;56;40;62;44;71;314
+657;Frogadier;Bubble Frog ;NULL;NULL;6;109;Water;NULL;Torrent;NULL;63;52;83;56;97;405
+658;Greninja;Ninja ;NULL;NULL;15;400;Water;Dark;Torrent;NULL;95;67;103;71;122;530
+658;Greninja;Ninja ;Ash;NULL;15;400;Water;Dark;Battle Bond;NULL;145;67;153;71;132;640
+659;Bunnelby;Digging ;NULL;NULL;4;50;Normal;NULL;Pickup;Cheek Pouch;36;38;32;36;57;237
+660;Diggersby;Digging ;NULL;NULL;10;424;Normal;Ground;Pickup;Cheek Pouch;56;77;50;77;78;423
+661;Fletchling;Tiny Robin ;NULL;NULL;3;17;Normal;Flying;Big Pecks;NULL;50;43;40;38;62;278
+662;Fletchinder;Ember ;NULL;NULL;7;160;Fire;Flying;Flame Body;NULL;73;55;56;52;84;382
+663;Talonflame;Scorching ;NULL;NULL;12;245;Fire;Flying;Flame Body;NULL;81;71;74;69;126;499
+664;Scatterbug;Scatterdust ;NULL;NULL;3;25;Bug;NULL;Shield Dust;Compound Eyes;35;40;27;25;35;200
+665;Spewpa;Scatterdust ;NULL;NULL;3;84;Bug;NULL;Shed Skin;NULL;22;60;27;30;29;213
+666;Vivillon;Scale ;NULL;NULL;12;170;Bug;Flying;Shield Dust;Compound Eyes;52;50;90;50;89;411
+667;Litleo;Lion Cub ;NULL;NULL;6;135;Fire;Normal;Rivalry;Unnerve;50;58;73;54;72;369
+668;Pyroar;Royal ;NULL;NULL;15;815;Fire;Normal;Rivalry;Unnerve;68;72;109;66;106;507
+669;Flabébé;Single Bloom ;NULL;NULL;1;1;Fairy;NULL;Flower Veil;NULL;38;39;61;79;42;303
+670;Floette;Single Bloom ;NULL;NULL;2;9;Fairy;NULL;Flower Veil;NULL;45;47;75;98;52;371
+671;Florges;Garden ;NULL;NULL;11;100;Fairy;NULL;Flower Veil;NULL;65;68;112;154;75;552
+672;Skiddo;Mount ;NULL;NULL;9;310;Grass;NULL;Sap Sipper;NULL;65;48;62;57;52;350
+673;Gogoat;Mount ;NULL;NULL;17;910;Grass;NULL;Sap Sipper;NULL;100;62;97;81;68;531
+674;Pancham;Playful ;NULL;NULL;6;80;Fighting;NULL;Iron Fist;Mold Breaker;82;62;46;48;43;348
+675;Pangoro;Daunting ;NULL;NULL;21;1360;Fighting;Dark;Iron Fist;Mold Breaker;124;78;69;71;58;495
+676;Furfrou;Poodle ;NULL;NULL;12;280;Normal;NULL;Fur Coat;NULL;80;60;65;90;102;472
+677;Espurr;Restraint ;NULL;NULL;3;35;Psychic;NULL;Keen Eye;Infiltrator;48;54;63;60;68;355
+678;Meowstic;Constraint ;NULL;NULL;6;85;Psychic;NULL;Keen Eye;Infiltrator;48;76;83;81;104;466
+678;Meowstic;Constraint ;Female;NULL;6;85;Psychic;NULL;Keen Eye;Infiltrator;48;76;83;81;104;466
+679;Honedge;Sword ;NULL;NULL;8;20;Steel;Ghost;No Guard;NULL;80;100;35;37;28;325
+680;Doublade;Sword ;NULL;NULL;8;45;Steel;Ghost;No Guard;NULL;110;150;45;49;35;448
+681;Aegislash;Royal Sword ;NULL;NULL;17;530;Steel;Ghost;Stance Change;NULL;50;140;50;140;60;500
+681;Aegislash;Royal Sword ;Blade;NULL;17;530;Steel;Ghost;Stance Change;NULL;140;50;140;50;60;500
+682;Spritzee;Perfume ;NULL;NULL;2;5;Fairy;NULL;Healer;NULL;52;60;63;65;23;341
+683;Aromatisse;Fragrance ;NULL;NULL;8;155;Fairy;NULL;Healer;NULL;72;72;99;89;29;462
+684;Swirlix;Cotton Candy ;NULL;NULL;4;35;Fairy;NULL;Sweet Veil;NULL;48;66;59;57;49;341
+685;Slurpuff;Meringue ;NULL;NULL;8;50;Fairy;NULL;Sweet Veil;NULL;80;86;85;75;72;480
+686;Inkay;Revolving ;NULL;NULL;4;35;Dark;Psychic;Suction Cups;Contrary;54;53;37;46;45;288
+687;Malamar;Overturning ;NULL;NULL;15;470;Dark;Psychic;Suction Cups;Contrary;92;88;68;75;73;482
+688;Binacle;Two-Handed ;NULL;NULL;5;310;Rock;Water;Tough Claws;Sniper;52;67;39;56;50;306
+689;Barbaracle;Collective ;NULL;NULL;13;960;Rock;Water;Tough Claws;Sniper;105;115;54;86;68;500
+690;Skrelp;Mock Kelp ;NULL;NULL;5;73;Poison;Water;Poison Point;Poison Touch;60;60;60;60;30;320
+691;Dragalge;Mock Kelp ;NULL;NULL;18;815;Poison;Dragon;Poison Point;Poison Touch;75;90;97;123;44;494
+692;Clauncher;Water Gun ;NULL;NULL;5;83;Water;NULL;Mega Launcher;NULL;53;62;58;63;44;330
+693;Clawitzer;Howitzer ;NULL;NULL;13;353;Water;NULL;Mega Launcher;NULL;73;88;120;89;59;500
+694;Helioptile;Generator ;NULL;NULL;5;60;Electric;Normal;Dry Skin;Sand Veil;38;33;61;43;70;289
+695;Heliolisk;Generator ;NULL;NULL;10;210;Electric;Normal;Dry Skin;Sand Veil;55;52;109;94;109;481
+696;Tyrunt;Royal Heir ;NULL;NULL;8;260;Rock;Dragon;Strong Jaw;NULL;89;77;45;45;48;362
+697;Tyrantrum;Despot ;NULL;NULL;25;2700;Rock;Dragon;Strong Jaw;NULL;121;119;69;59;71;521
+698;Amaura;Tundra ;NULL;NULL;13;252;Rock;Ice;Refrigerate;NULL;59;50;67;63;46;362
+699;Aurorus;Tundra ;NULL;NULL;27;2250;Rock;Ice;Refrigerate;NULL;77;72;99;92;58;521
+700;Sylveon;Interwining ;NULL;NULL;10;235;Fairy;NULL;Cute Charm;NULL;65;65;110;130;60;525
+700;Sylveon;Interwining ;NULL;NULL;10;235;Fairy;NULL;Cute Charm;NULL;65;65;110;130;60;525
+701;Hawlucha;Wrestling ;NULL;NULL;8;215;Fighting;Flying;Limber;Unburden;92;75;74;63;118;500
+702;Dedenne;Antenna ;NULL;NULL;2;22;Electric;Fairy;Cheek Pouch;Pickup;58;57;81;67;101;431
+703;Carbink;Jewel ;NULL;NULL;3;57;Rock;Fairy;Clear Body;NULL;50;150;50;150;50;500
+704;Goomy;Soft Tissue ;NULL;NULL;3;28;Dragon;NULL;Sap Sipper;Hydration;50;35;55;75;40;300
+705;Sliggoo;Soft Tissue ;NULL;NULL;8;175;Dragon;NULL;Sap Sipper;Hydration;75;53;83;113;60;452
+705;Sliggoo;Snail ;Hisui;NULL;7;685;Steel;Dragon;Sap Sipper;Shell Armor;75;83;83;113;40;452
+706;Goodra;Shell Bunker ;Hisui;NULL;17;3341;Steel;Dragon;Sap Sipper;Shell Armor;100;100;110;150;60;600
+706;Goodra;Dragon ;NULL;NULL;20;1505;Dragon;NULL;Sap Sipper;Hydration;100;70;110;150;80;600
+707;Klefki;Key Ring ;NULL;NULL;2;30;Steel;Fairy;Prankster;NULL;80;91;80;87;75;470
+708;Phantump;Stump ;NULL;NULL;4;70;Ghost;Grass;Natural Cure;Frisk;70;48;50;60;38;309
+709;Trevenant;Elder Tree ;NULL;NULL;15;710;Ghost;Grass;Natural Cure;Frisk;110;76;65;82;56;474
+710;Pumpkaboo;Pumpkin ;NULL;NULL;4;50;Ghost;Grass;Pickup;Frisk;66;70;44;55;51;335
+711;Gourgeist;Pumpkin ;NULL;NULL;9;125;Ghost;Grass;Pickup;Frisk;90;122;58;75;84;494
+712;Bergmite;Ice Chunk ;NULL;NULL;10;995;Ice;NULL;Own Tempo;Ice Body;69;85;32;35;28;304
+713;Avalugg;Iceberg ;NULL;NULL;20;5050;Ice;NULL;Own Tempo;Ice Body;117;184;44;46;28;514
+713;Avalugg;Iceberg ;Hisui;NULL;14;2624;Ice;Rock;Strong Jaw;Ice Body;127;184;34;36;38;514
+714;Noibat;Sound Wave ;NULL;NULL;5;80;Flying;Dragon;Frisk;Infiltrator;30;35;45;40;55;245
+715;Noivern;Sound Wave ;NULL;NULL;15;850;Flying;Dragon;Frisk;Infiltrator;70;80;97;80;123;535
+716;Xerneas;Life ;NULL;"""Legendary""";30;2150;Fairy;NULL;Fairy Aura;NULL;131;95;131;98;99;680
+717;Yveltal;Destruction ;NULL;"""Legendary""";58;2030;Dark;Flying;Dark Aura;NULL;131;95;131;98;99;680
+718;Zygarde;Order ;NULL;"""Legendary""";50;3050;Dragon;Ground;Aura Break;Power Construct;100;121;81;95;95;600
+718;Zygarde;Order ;10%;"""Legendary""";12;335;Dragon;Ground;Aura Break;Power Construct;100;71;61;85;115;486
+718;Zygarde;Order ;Complete;"""Legendary""";45;6100;Dragon;Ground;Power Construct;NULL;100;121;91;95;85;708
+719;Diancie;Jewel ;Mega;"""Mythical""";11;278;Rock;Fairy;Magic Bounce;NULL;160;110;160;110;110;700
+719;Diancie;Jewel ;NULL;"""Mythical""";7;88;Rock;Fairy;Clear Body;NULL;100;150;100;150;50;600
+720;Hoopa;Mischief ;NULL;"""Mythical""";5;90;Psychic;Ghost;Magician;NULL;110;60;150;130;70;600
+720;Hoopa;Djinn ;Unbound;"""Mythical""";65;4900;Psychic;Dark;Magician;NULL;160;60;170;130;80;680
+721;Volcanion;Steam ;NULL;"""Mythical""";17;1950;Fire;Water;Water Absorb;NULL;110;120;130;90;70;600
+722;Rowlet;Grass Quill ;NULL;NULL;3;15;Grass;Flying;Overgrow;NULL;55;55;50;50;40;318
+723;Dartrix;Blade Quill ;NULL;NULL;7;160;Grass;Flying;Overgrow;NULL;75;75;70;70;52;420
+724;Decidueye;Arrow Quill ;NULL;NULL;16;366;Grass;Ghost;Overgrow;NULL;107;75;100;100;70;530
+724;Decidueye;Arrow Quill ;Hisui;NULL;16;370;Grass;Fighting;Overgrow;NULL;112;80;95;95;60;530
+725;Litten;Fire Cat ;NULL;NULL;4;43;Fire;NULL;Blaze;NULL;65;40;60;40;70;320
+726;Torracat;Fire Cat ;NULL;NULL;7;250;Fire;NULL;Blaze;NULL;85;50;80;50;90;420
+727;Incineroar;Heel ;NULL;NULL;18;830;Fire;Dark;Blaze;NULL;115;90;80;90;60;530
+728;Popplio;Sea Lion ;NULL;NULL;4;75;Water;NULL;Torrent;NULL;54;54;66;56;40;320
+729;Brionne;Pop Star ;NULL;NULL;6;175;Water;NULL;Torrent;NULL;69;69;91;81;50;420
+730;Primarina;Soloist ;NULL;NULL;18;440;Water;Fairy;Torrent;NULL;74;74;126;116;60;530
+731;Pikipek;Woodpecker ;NULL;NULL;3;12;Normal;Flying;Keen Eye;Skill Link;75;30;30;30;65;265
+732;Trumbeak;Bugle Beak ;NULL;NULL;6;148;Normal;Flying;Keen Eye;Skill Link;85;50;40;50;75;355
+733;Toucannon;Cannon ;NULL;NULL;11;260;Normal;Flying;Keen Eye;Skill Link;120;75;75;75;60;485
+734;Yungoos;Loitering ;NULL;NULL;4;60;Normal;NULL;Stakeout;Strong Jaw;70;30;30;30;45;253
+735;Gumshoos;Stakeout ;NULL;NULL;7;142;Normal;NULL;Stakeout;Strong Jaw;110;60;55;60;45;418
+736;Grubbin;Larva ;NULL;NULL;4;44;Bug;NULL;Swarm;NULL;62;45;55;45;46;300
+737;Charjabug;Battery ;NULL;NULL;5;105;Bug;Electric;Battery;NULL;82;95;55;75;36;400
+738;Vikavolt;Stag Beetle ;NULL;NULL;15;450;Bug;Electric;Levitate;NULL;70;90;145;75;43;500
+738;Vikavolt;Stag Beetle ;NULL;NULL;15;450;Bug;Electric;Levitate;NULL;70;90;145;75;43;500
+739;Crabrawler;Boxing ;NULL;NULL;6;70;Fighting;NULL;Hyper Cutter;Iron Fist;82;57;42;47;63;338
+740;Crabominable;Woolly Crab ;NULL;NULL;17;1800;Fighting;Ice;Hyper Cutter;Iron Fist;132;77;62;67;43;478
+740;Crabominable;Woolly Crab ;NULL;NULL;17;1800;Fighting;Ice;Hyper Cutter;Iron Fist;132;77;62;67;43;478
+741;Oricorio;Dancing ;NULL;NULL;6;34;Fire;Flying;Dancer;NULL;70;70;98;70;93;476
+741;Oricorio;Dancing ;Pom-Pom;NULL;6;34;Electric;Flying;Dancer;NULL;70;70;98;70;93;476
+741;Oricorio;Dancing ;Pa'u;NULL;6;34;Psychic;Flying;Dancer;NULL;70;70;98;70;93;476
+741;Oricorio;Dancing ;Sensu;NULL;6;34;Ghost;Flying;Dancer;NULL;70;70;98;70;93;476
+742;Cutiefly;Bee Fly ;NULL;NULL;1;2;Bug;Fairy;Honey Gather;Shield Dust;45;40;55;40;84;304
+743;Ribombee;Bee Fly ;NULL;NULL;2;5;Bug;Fairy;Honey Gather;Shield Dust;55;60;96;70;124;465
+744;Rockruff;Puppy ;NULL;NULL;5;92;Rock;NULL;Keen Eye;Vital Spirit;65;40;30;40;60;280
+745;Lycanroc;Wolf ;NULL;NULL;8;250;Rock;NULL;Keen Eye;Sand Rush;115;65;55;65;112;487
+745;Lycanroc;Wolf ;Midnight;NULL;11;250;Rock;NULL;Keen Eye;Vital Spirit;115;75;55;75;82;487
+745;Lycanroc;Wolf ;Dusk;NULL;8;250;Rock;NULL;Tough Claws;NULL;117;65;55;65;110;487
+746;Wishiwashi;Small Fry ;NULL;NULL;2;3;Water;NULL;Schooling;NULL;20;20;25;25;40;175
+746;Wishiwashi;Small Fry ;School;NULL;82;786;Water;NULL;Schooling;NULL;140;130;140;135;30;620
+747;Mareanie;Brutal Star ;NULL;NULL;4;80;Poison;Water;Merciless;Limber;53;62;43;52;45;305
+748;Toxapex;Brutal ;NULL;NULL;7;145;Poison;Water;Merciless;Limber;63;152;53;142;35;495
+749;Mudbray;Donkey ;NULL;NULL;10;1100;Ground;NULL;Own Tempo;Stamina;100;70;45;55;45;385
+750;Mudsdale;Draft Horse ;NULL;NULL;25;9200;Ground;NULL;Own Tempo;Stamina;125;100;55;85;35;500
+751;Dewpider;Water Bubble ;NULL;NULL;3;40;Water;Bug;Water Bubble;NULL;40;52;40;72;27;269
+752;Araquanid;Water Bubble ;NULL;NULL;18;820;Water;Bug;Water Bubble;NULL;70;92;50;132;42;454
+753;Fomantis;Sickle Grass ;NULL;NULL;3;15;Grass;NULL;Leaf Guard;NULL;55;35;50;35;35;250
+754;Lurantis;Bloom Sickle ;NULL;NULL;9;185;Grass;NULL;Leaf Guard;NULL;105;90;80;90;45;480
+755;Morelull;Illuminating ;NULL;NULL;2;15;Grass;Fairy;Illuminate;Effect Spore;35;55;65;75;15;285
+756;Shiinotic;Illuminating ;NULL;NULL;10;115;Grass;Fairy;Illuminate;Effect Spore;45;80;90;100;30;405
+757;Salandit;Toxic Lizard ;NULL;NULL;6;48;Poison;Fire;Corrosion;NULL;44;40;71;40;77;320
+758;Salazzle;Toxic Lizard ;NULL;NULL;12;222;Poison;Fire;Corrosion;NULL;64;60;111;60;117;480
+759;Stufful;Flailing ;NULL;NULL;5;68;Normal;Fighting;Fluffy;Klutz;75;50;45;50;50;340
+760;Bewear;Strong Arm ;NULL;NULL;21;1350;Normal;Fighting;Fluffy;Klutz;125;80;55;60;60;500
+761;Bounsweet;Fruit ;NULL;NULL;3;32;Grass;NULL;Leaf Guard;Oblivious;30;38;30;38;32;210
+762;Steenee;Fruit ;NULL;NULL;7;82;Grass;NULL;Leaf Guard;Oblivious;40;48;40;48;62;290
+763;Tsareena;Fruit ;NULL;NULL;12;214;Grass;NULL;Leaf Guard;Queenly Majesty;120;98;50;98;72;510
+764;Comfey;Posy Picker ;NULL;NULL;1;3;Fairy;NULL;Flower Veil;Triage;52;90;82;110;100;485
+765;Oranguru;Sage ;NULL;NULL;15;760;Normal;Psychic;Inner Focus;Telepathy;60;80;90;110;60;490
+766;Passimian;Teamwork ;NULL;NULL;20;828;Fighting;NULL;Receiver;NULL;120;90;40;60;80;490
+767;Wimpod;Turn Tail ;NULL;NULL;5;120;Bug;Water;Wimp Out;NULL;35;40;20;30;80;230
+768;Golisopod;Hard Scale ;NULL;NULL;20;1080;Bug;Water;Emergency Exit;NULL;125;140;60;90;40;530
+769;Sandygast;Sand Heap ;NULL;NULL;5;700;Ghost;Ground;Water Compaction;NULL;55;80;70;45;15;320
+770;Palossand;Sand Castle ;NULL;NULL;13;2500;Ghost;Ground;Water Compaction;NULL;75;110;100;75;35;480
+771;Pyukumuku;Sea Cucumber ;NULL;NULL;3;12;Water;NULL;Innards Out;NULL;60;130;30;130;5;410
+772;Type: Null;Synthetic ;NULL;"""Sub-Legendary""";19;1205;Normal;NULL;Battle Armor;NULL;95;95;95;95;59;534
+773;Silvally;Synthetic ;NULL;"""Sub-Legendary""";23;1005;Normal;NULL;RKS System;NULL;95;95;95;95;95;570
+774;Minior;Meteor ;NULL;NULL;3;400;Rock;Flying;Shields Down;NULL;60;100;60;100;60;440
+774;Minior;Meteor ;Core;NULL;3;3;Rock;Flying;Shields Down;NULL;100;60;100;60;120;500
+775;Komala;Drowsing ;NULL;NULL;4;199;Normal;NULL;Comatose;NULL;115;65;75;95;65;480
+776;Turtonator;Blast Turtle ;NULL;NULL;20;2120;Fire;Dragon;Shell Armor;NULL;78;135;91;85;36;485
+777;Togedemaru;Roly-Poly ;NULL;NULL;3;33;Electric;Steel;Iron Barbs;Lightning Rod;98;63;40;73;96;435
+778;Mimikyu;Disguise ;NULL;NULL;2;7;Ghost;Fairy;Disguise;NULL;90;80;50;105;96;476
+779;Bruxish;Gnash Teeth ;NULL;NULL;9;190;Water;Psychic;Dazzling;Strong Jaw;105;70;70;70;92;475
+780;Drampa;Placid ;NULL;NULL;30;1850;Normal;Dragon;Berserk;Sap Sipper;60;85;135;91;36;485
+781;Dhelmise;Sea Creeper ;NULL;NULL;39;2100;Ghost;Grass;Steelworker;NULL;131;100;86;90;40;517
+782;Jangmo-o;Scaly ;NULL;NULL;6;297;Dragon;NULL;Bulletproof;Soundproof;55;65;45;45;45;300
+783;Hakamo-o;Scaly ;NULL;NULL;12;470;Dragon;Fighting;Bulletproof;Soundproof;75;90;65;70;65;420
+784;Kommo-o;Scaly ;NULL;NULL;16;782;Dragon;Fighting;Bulletproof;Soundproof;110;125;100;105;85;600
+785;Tapu Koko;Land Spirit ;NULL;"""Sub-Legendary""";18;205;Electric;Fairy;Electric Surge;NULL;115;85;95;75;130;570
+786;Tapu Lele;Land Spirit ;NULL;"""Sub-Legendary""";12;186;Psychic;Fairy;Psychic Surge;NULL;85;75;130;115;95;570
+787;Tapu Bulu;Land Spirit ;NULL;"""Sub-Legendary""";19;455;Grass;Fairy;Grassy Surge;NULL;130;115;85;95;75;570
+788;Tapu Fini;Land Spirit ;NULL;"""Sub-Legendary""";13;212;Water;Fairy;Misty Surge;NULL;75;115;95;130;85;570
+789;Cosmog;Nebula ;NULL;"""Legendary""";2;1;Psychic;NULL;Unaware;NULL;29;31;29;31;37;200
+790;Cosmoem;Protostar ;NULL;"""Legendary""";1;9999;Psychic;NULL;Sturdy;NULL;29;131;29;131;37;400
+791;Solgaleo;Sunne ;NULL;"""Legendary""";34;2300;Psychic;Steel;Full Metal Body;NULL;137;107;113;89;97;680
+791;Solgaleo;Sunne ;NULL;"""Legendary""";34;2300;Psychic;Steel;Full Metal Body;NULL;137;107;113;89;97;680
+792;Lunala;Moone ;NULL;"""Legendary""";40;1200;Psychic;Ghost;Shadow Shield;NULL;113;89;137;107;97;680
+792;Lunala;Moone ;NULL;"""Legendary""";40;1200;Psychic;Ghost;Shadow Shield;NULL;113;89;137;107;97;680
+793;Nihilego;Parasite ;NULL;"""Sub-Legendary""";12;555;Rock;Poison;Beast Boost;NULL;53;47;127;131;103;570
+794;Buzzwole;Swollen ;NULL;"""Sub-Legendary""";24;3336;Bug;Fighting;Beast Boost;NULL;139;139;53;53;79;570
+795;Pheromosa;Lissome ;NULL;"""Sub-Legendary""";18;250;Bug;Fighting;Beast Boost;NULL;137;37;137;37;151;570
+796;Xurkitree;Glowing ;NULL;"""Sub-Legendary""";38;1000;Electric;NULL;Beast Boost;NULL;89;71;173;71;83;570
+797;Celesteela;Launch ;NULL;"""Sub-Legendary""";92;9999;Steel;Flying;Beast Boost;NULL;101;103;107;101;61;570
+798;Kartana;Drawn Sword ;NULL;"""Sub-Legendary""";3;1;Grass;Steel;Beast Boost;NULL;181;131;59;31;109;570
+799;Guzzlord;Junkivore ;NULL;"""Sub-Legendary""";55;8880;Dark;Dragon;Beast Boost;NULL;101;53;97;53;43;570
+800;Necrozma;Prism ;Dusk Mane;"""Legendary""";38;4600;Psychic;Steel;Prism Armor;NULL;157;127;113;109;77;680
+800;Necrozma;Prism ;Dawn Wings;"""Legendary""";42;3500;Psychic;Ghost;Prism Armor;NULL;113;109;157;127;77;680
+800;Necrozma;Prism ;Ultra;"""Legendary""";75;2300;Psychic;Dragon;Neuroforce;NULL;167;97;167;97;129;754
+800;Necrozma;Prism ;NULL;"""Legendary""";24;2300;Psychic;NULL;Prism Armor;NULL;107;101;127;89;79;600
+801;Magearna;Artificial ;NULL;"""Mythical""";10;805;Steel;Fairy;Soul-Heart;NULL;95;115;130;115;65;600
+802;Marshadow;Gloomdweller ;NULL;"""Mythical""";7;222;Fighting;Ghost;Technician;NULL;125;80;90;90;125;600
+803;Poipole;Poison Pin ;NULL;"""Sub-Legendary""";6;18;Poison;NULL;Beast Boost;NULL;73;67;73;67;73;420
+804;Naganadel;Poison Pin ;NULL;"""Sub-Legendary""";36;1500;Poison;Dragon;Beast Boost;NULL;73;73;127;73;121;540
+805;Stakataka;Rampart ;NULL;"""Sub-Legendary""";55;8200;Rock;Steel;Beast Boost;NULL;131;211;53;101;13;570
+806;Blacephalon;Fireworks ;NULL;"""Sub-Legendary""";18;130;Fire;Ghost;Beast Boost;NULL;127;53;151;79;107;570
+807;Zeraora;Thunderclap ;NULL;"""Mythical""";15;445;Electric;NULL;Volt Absorb;NULL;112;75;102;80;143;600
+808;Meltan;Hex Nut ;NULL;"""Mythical""";2;80;Steel;NULL;Magnet Pull;NULL;65;65;55;35;34;300
+809;Melmetal;Hex Nut ;NULL;"""Mythical""";25;8000;Steel;NULL;Iron Fist;NULL;143;143;80;65;34;600
+809;Melmetal;Hex Nut ;Gigantamax;"""Mythical""";250;0;Steel;NULL;Iron Fist;NULL;143;143;80;65;34;600
+810;Grookey;Chimp ;NULL;NULL;3;50;Grass;NULL;Overgrow;NULL;65;50;40;40;65;310
+811;Thwackey;Beat ;NULL;NULL;7;140;Grass;NULL;Overgrow;NULL;85;70;55;60;80;420
+812;Rillaboom;Drummer ;NULL;NULL;21;900;Grass;NULL;Overgrow;NULL;125;90;60;70;85;530
+812;Rillaboom;Drummer ;Gigantamax;NULL;280;0;Grass;NULL;Overgrow;NULL;125;90;60;70;85;530
+813;Scorbunny;Rabbit ;NULL;NULL;3;45;Fire;NULL;Blaze;NULL;71;40;40;40;69;310
+814;Raboot;Rabbit ;NULL;NULL;6;90;Fire;NULL;Blaze;NULL;86;50;55;60;94;410
+815;Cinderace;Striker ;NULL;NULL;14;330;Fire;NULL;Blaze;NULL;116;75;65;75;119;530
+815;Cinderace;Striker ;Gigantamax;NULL;270;0;Fire;NULL;Blaze;NULL;116;75;65;75;119;530
+816;Sobble;Water Lizard ;NULL;NULL;3;40;Water;NULL;Torrent;NULL;40;40;70;40;70;310
+817;Drizzile;Water Lizard ;NULL;NULL;7;115;Water;NULL;Torrent;NULL;60;55;95;55;90;420
+818;Inteleon;Secret Agent ;NULL;NULL;19;452;Water;NULL;Torrent;NULL;85;65;125;65;120;530
+818;Inteleon;Secret Agent ;Gigantamax;NULL;400;0;Water;NULL;Torrent;NULL;85;65;125;65;120;530
+819;Skwovet;Cheeky ;NULL;NULL;3;25;Normal;NULL;Cheek Pouch;NULL;55;55;35;35;25;275
+820;Greedent;Greedy ;NULL;NULL;6;60;Normal;NULL;Cheek Pouch;NULL;95;95;55;75;20;460
+821;Rookidee;Tiny Bird ;NULL;NULL;2;18;Flying;NULL;Keen Eye;Unnerve;47;35;33;35;57;245
+822;Corvisquire;Raven ;NULL;NULL;8;160;Flying;NULL;Keen Eye;Unnerve;67;55;43;55;77;365
+823;Corviknight;Raven ;NULL;NULL;22;750;Flying;Steel;Pressure;Unnerve;87;105;53;85;67;495
+823;Corviknight;Raven ;Gigantamax;NULL;140;0;Flying;Steel;Pressure;Unnerve;87;105;53;85;67;495
+824;Blipbug;Larva ;NULL;NULL;4;80;Bug;NULL;Swarm;Compound Eyes;20;20;25;45;45;180
+825;Dottler;Radome ;NULL;NULL;4;195;Bug;Psychic;Swarm;Compound Eyes;35;80;50;90;30;335
+826;Orbeetle;Seven Spot ;NULL;NULL;4;408;Bug;Psychic;Swarm;Frisk;45;110;80;120;90;505
+826;Orbeetle;Seven Spot ;Gigantamax;NULL;140;0;Bug;Psychic;Swarm;Frisk;45;110;80;120;90;505
+827;Nickit;Fox ;NULL;NULL;6;89;Dark;NULL;Run Away;Unburden;28;28;47;52;50;245
+828;Thievul;Fox ;NULL;NULL;12;199;Dark;NULL;Run Away;Unburden;58;58;87;92;90;455
+829;Gossifleur;Flowering ;NULL;NULL;4;22;Grass;NULL;Cotton Down;Regenerator;40;60;40;60;10;250
+830;Eldegoss;Cotton Bloom ;NULL;NULL;5;25;Grass;NULL;Cotton Down;Regenerator;50;90;80;120;60;460
+831;Wooloo;Sheep ;NULL;NULL;6;60;Normal;NULL;Fluffy;Run Away;40;55;40;45;48;270
+832;Dubwool;Sheep ;NULL;NULL;13;430;Normal;NULL;Fluffy;Steadfast;80;100;60;90;88;490
+833;Chewtle;Snapping ;NULL;NULL;3;85;Water;NULL;Strong Jaw;Shell Armor;64;50;38;38;44;284
+834;Drednaw;Bite ;NULL;NULL;10;1155;Water;Rock;Strong Jaw;Shell Armor;115;90;48;68;74;485
+834;Drednaw;Bite ;Gigantamax;NULL;240;0;Water;Rock;Strong Jaw;Shell Armor;115;90;48;68;74;485
+835;Yamper;Puppy ;NULL;NULL;3;135;Electric;NULL;Ball Fetch;NULL;45;50;40;50;26;270
+836;Boltund;Dog ;NULL;NULL;10;340;Electric;NULL;Strong Jaw;NULL;90;60;90;60;121;490
+837;Rolycoly;Coal ;NULL;NULL;3;120;Rock;NULL;Steam Engine;Heatproof;40;50;40;50;30;240
+838;Carkol;Coal ;NULL;NULL;11;780;Rock;Fire;Steam Engine;Flame Body;60;90;60;70;50;410
+839;Coalossal;Coal ;NULL;NULL;28;3105;Rock;Fire;Steam Engine;Flame Body;80;120;80;90;30;510
+839;Coalossal;Coal ;Gigantamax;NULL;420;0;Rock;Fire;Steam Engine;Flame Body;80;120;80;90;30;510
+840;Applin;Apple Core ;NULL;NULL;2;5;Grass;Dragon;Ripen;Gluttony;40;80;40;40;20;260
+841;Flapple;Apple Wing ;NULL;NULL;3;10;Grass;Dragon;Ripen;Gluttony;110;80;95;60;70;485
+841;Flapple;Apple Wing ;Gigantamax;NULL;240;0;Grass;Dragon;Ripen;Gluttony;110;80;95;60;70;485
+842;Appletun;Apple Nectar ;Gigantamax;NULL;240;0;Grass;Dragon;Ripen;Gluttony;85;80;100;80;30;485
+842;Appletun;Apple Nectar ;NULL;NULL;4;130;Grass;Dragon;Ripen;Gluttony;85;80;100;80;30;485
+843;Silicobra;Sand Snake ;NULL;NULL;22;76;Ground;NULL;Sand Spit;Shed Skin;57;75;35;50;46;315
+844;Sandaconda;Sand Snake ;NULL;NULL;38;655;Ground;NULL;Sand Spit;Shed Skin;107;125;65;70;71;510
+844;Sandaconda;Sand Snake ;Gigantamax;NULL;220;0;Ground;NULL;Sand Spit;Shed Skin;107;125;65;70;71;510
+845;Cramorant;Gulp ;NULL;NULL;8;180;Flying;Water;Gulp Missile;NULL;85;55;85;95;85;475
+846;Arrokuda;Rush ;NULL;NULL;5;10;Water;NULL;Swift Swim;NULL;63;40;40;30;66;280
+847;Barraskewda;Skewer ;NULL;NULL;13;300;Water;NULL;Swift Swim;NULL;123;60;60;50;136;490
+848;Toxel;Baby ;NULL;NULL;4;110;Electric;Poison;Rattled;Static;38;35;54;35;40;242
+849;Toxtricity;Punk ;NULL;NULL;16;400;Electric;Poison;Punk Rock;Plus;98;70;114;70;75;502
+849;Toxtricity;Punk ;Low Key;NULL;16;400;Electric;Poison;Punk Rock;Minus;98;70;114;70;75;502
+849;Toxtricity;Punk ;Gigantamax;NULL;240;0;Electric;Poison;Punk Rock;Plus;98;70;114;70;75;502
+849;Toxtricity;Punk ;Low Key Gigantamax;NULL;240;0;Electric;Poison;Punk Rock;Minus;98;70;114;70;75;502
+850;Sizzlipede;Radiator ;NULL;NULL;7;10;Fire;Bug;Flash Fire;White Smoke;65;45;50;50;45;305
+851;Centiskorch;Radiator ;NULL;NULL;30;1200;Fire;Bug;Flash Fire;White Smoke;115;65;90;90;65;525
+851;Centiskorch;Radiator ;Gigantamax;NULL;750;0;Fire;Bug;Flash Fire;White Smoke;115;65;90;90;65;525
+852;Clobbopus;Tantrum ;NULL;NULL;6;40;Fighting;NULL;Limber;NULL;68;60;50;50;32;310
+853;Grapploct;Jujitsu ;NULL;NULL;16;390;Fighting;NULL;Limber;NULL;118;90;70;80;42;480
+854;Sinistea;Black Tea ;NULL;NULL;1;2;Ghost;NULL;Weak Armor;NULL;45;45;74;54;50;308
+855;Polteageist;Black Tea ;NULL;NULL;2;4;Ghost;NULL;Weak Armor;NULL;65;65;134;114;70;508
+856;Hatenna;Calm ;NULL;NULL;4;34;Psychic;NULL;Healer;Anticipation;30;45;56;53;39;265
+857;Hattrem;Serene ;NULL;NULL;6;48;Psychic;NULL;Healer;Anticipation;40;65;86;73;49;370
+858;Hatterene;Silent ;NULL;NULL;21;51;Psychic;Fairy;Healer;Anticipation;90;95;136;103;29;510
+858;Hatterene;Silent ;Gigantamax;NULL;260;0;Psychic;Fairy;Healer;Anticipation;90;95;136;103;29;510
+859;Impidimp;Wily ;NULL;NULL;4;55;Dark;Fairy;Prankster;Frisk;45;30;55;40;50;265
+860;Morgrem;Devious ;NULL;NULL;8;125;Dark;Fairy;Prankster;Frisk;60;45;75;55;70;370
+861;Grimmsnarl;Bulk Up ;NULL;NULL;15;610;Dark;Fairy;Prankster;Frisk;120;65;95;75;60;510
+861;Grimmsnarl;Bulk Up ;Gigantamax;NULL;320;0;Dark;Fairy;Prankster;Frisk;120;65;95;75;60;510
+862;Obstagoon;Blocking ;NULL;NULL;16;460;Dark;Normal;Reckless;Guts;90;101;60;81;95;520
+863;Perrserker;Viking ;NULL;NULL;8;280;Steel;NULL;Battle Armor;Tough Claws;110;100;50;60;50;440
+864;Cursola;Coral ;NULL;NULL;10;4;Ghost;NULL;Weak Armor;NULL;95;50;145;130;30;510
+865;Sirfetch'd;Wild Duck ;NULL;NULL;8;1170;Fighting;NULL;Steadfast;NULL;135;95;68;82;65;507
+866;Mr. Rime;Comedian ;NULL;NULL;15;582;Ice;Psychic;Tangled Feet;Screen Cleaner;85;75;110;100;70;520
+867;Runerigus;Grudge ;NULL;NULL;16;666;Ground;Ghost;Wandering Spirit;NULL;95;145;50;105;30;483
+868;Milcery;Cream ;NULL;NULL;2;3;Fairy;NULL;Sweet Veil;NULL;40;40;50;61;34;270
+869;Alcremie;Cream ;NULL;NULL;3;5;Fairy;NULL;Sweet Veil;NULL;60;75;110;121;64;495
+869;Alcremie;Cream ;Gigantamax;NULL;300;0;Fairy;NULL;Sweet Veil;NULL;60;75;110;121;64;495
+870;Falinks;Formation ;NULL;NULL;30;620;Fighting;NULL;Battle Armor;NULL;100;100;70;60;75;465
+871;Pincurchin;Sea Urchin ;NULL;NULL;3;10;Electric;NULL;Lightning Rod;NULL;101;95;91;85;15;435
+872;Snom;Worm ;NULL;NULL;3;38;Ice;Bug;Shield Dust;NULL;25;35;45;30;20;185
+873;Frosmoth;Frost Moth ;NULL;NULL;13;420;Ice;Bug;Shield Dust;NULL;65;60;125;90;65;475
+874;Stonjourner;Big Rock ;NULL;NULL;25;5200;Rock;NULL;Power Spot;NULL;125;135;20;20;70;470
+875;Eiscue;Penguin ;NULL;NULL;14;890;Ice;NULL;Ice Face;NULL;80;110;65;90;50;470
+875;Eiscue;Penguin ;Noice;NULL;14;890;Ice;NULL;Ice Face;NULL;80;70;65;50;130;470
+876;Indeedee;Emotion ;NULL;NULL;9;280;Psychic;Normal;Inner Focus;Synchronize;65;55;105;95;95;475
+876;Indeedee;Emotion ;Female;NULL;9;280;Psychic;Normal;Own Tempo;Synchronize;55;65;95;105;85;475
+877;Morpeko;Two-Sided ;NULL;NULL;3;30;Electric;Dark;Hunger Switch;NULL;95;58;70;58;97;436
+878;Cufant;Copperderm ;NULL;NULL;12;1000;Steel;NULL;Sheer Force;NULL;80;49;40;49;40;330
+879;Copperajah;Copperderm ;NULL;NULL;30;6500;Steel;NULL;Sheer Force;NULL;130;69;80;69;30;500
+879;Copperajah;Copperderm ;Gigantamax;NULL;230;0;Steel;NULL;Sheer Force;NULL;130;69;80;69;30;500
+880;Dracozolt;Fossil ;NULL;NULL;18;1900;Electric;Dragon;Volt Absorb;Hustle;100;90;80;70;75;505
+881;Arctozolt;Fossil ;NULL;NULL;23;1500;Electric;Ice;Volt Absorb;Static;100;90;90;80;55;505
+882;Dracovish;Fossil ;NULL;NULL;23;2150;Water;Dragon;Water Absorb;Strong Jaw;90;100;70;80;75;505
+883;Arctovish;Fossil ;NULL;NULL;20;1750;Water;Ice;Water Absorb;Ice Body;90;100;80;90;55;505
+884;Duraludon;Alloy ;NULL;NULL;18;400;Steel;Dragon;Light Metal;Heavy Metal;95;115;120;50;85;535
+884;Duraludon;Alloy ;Gigantamax;NULL;430;0;Steel;Dragon;Light Metal;Heavy Metal;95;115;120;50;85;535
+885;Dreepy;Lingering ;NULL;NULL;5;20;Dragon;Ghost;Clear Body;Infiltrator;60;30;40;30;82;270
+886;Drakloak;Caretaker ;NULL;NULL;14;110;Dragon;Ghost;Clear Body;Infiltrator;80;50;60;50;102;410
+887;Dragapult;Stealth ;NULL;NULL;30;500;Dragon;Ghost;Clear Body;Infiltrator;120;75;100;75;142;600
+888;Zacian;Warrior ;NULL;"""Legendary""";28;1100;Fairy;NULL;Intrepid Sword;NULL;120;115;80;115;138;660
+888;Zacian;Warrior ;Crowned;"""Legendary""";28;3550;Fairy;Steel;Intrepid Sword;NULL;150;115;80;115;148;700
+889;Zamazenta;Warrior ;NULL;"""Legendary""";29;2100;Fighting;NULL;Dauntless Shield;NULL;120;115;80;115;138;660
+889;Zamazenta;Warrior ;Crowned;"""Legendary""";29;7850;Fighting;Steel;Dauntless Shield;NULL;120;140;80;140;128;700
+890;Eternatus;Gigantic ;NULL;"""Legendary""";200;9500;Poison;Dragon;Pressure;NULL;85;95;145;95;130;690
+890;Eternatus;Gigantic ;Eternamax;"""Legendary""";1000;0;Poison;Dragon;Pressure;NULL;115;250;125;250;130;1125
+891;Kubfu;Wushu ;NULL;"""Sub-Legendary""";6;120;Fighting;NULL;Inner Focus;NULL;90;60;53;50;72;385
+892;Urshifu;Wushu ;NULL;"""Sub-Legendary""";19;1050;Fighting;Dark;Unseen Fist;NULL;130;100;63;60;97;550
+892;Urshifu;Wushu ;NULL;"""Sub-Legendary""";19;1050;Fighting;Dark;Unseen Fist;NULL;130;100;63;60;97;550
+892;Urshifu;Wushu ;Rapid Strike;"""Sub-Legendary""";19;1050;Fighting;Water;Unseen Fist;NULL;130;100;63;60;97;550
+892;Urshifu;Wushu ;Rapid Strike;"""Sub-Legendary""";19;1050;Fighting;Water;Unseen Fist;NULL;130;100;63;60;97;550
+892;Urshifu;Wushu ;Gigantamax;"""Sub-Legendary""";290;0;Fighting;Dark;Unseen Fist;NULL;130;100;63;60;97;550
+892;Urshifu;Wushu ;Rapid Strike Gigantamax;"""Sub-Legendary""";290;0;Fighting;Water;Unseen Fist;NULL;130;100;63;60;97;550
+893;Zarude;Rogue Monkey ;NULL;"""Mythical""";18;700;Dark;Grass;Leaf Guard;NULL;120;105;70;95;105;600
+894;Regieleki;Electron ;NULL;"""Sub-Legendary""";12;1450;Electric;NULL;Transistor;NULL;100;50;100;50;200;580
+895;Regidrago;Dragon Orb ;NULL;"""Sub-Legendary""";21;2000;Dragon;NULL;Dragon's Maw;NULL;100;50;100;50;80;580
+896;Glastrier;Wild Horse ;NULL;"""Sub-Legendary""";22;8000;Ice;NULL;Chilling Neigh;NULL;145;130;65;110;30;580
+897;Spectrier;Swift Horse ;NULL;"""Sub-Legendary""";20;445;Ghost;NULL;Grim Neigh;NULL;65;60;145;80;130;580
+898;Calyrex;High King ;Ice Rider;"""Legendary""";11;77;Psychic;Ice;As One;NULL;165;150;85;130;50;680
+898;Calyrex;High King ;Shadow Rider;"""Legendary""";11;77;Psychic;Ghost;As One;NULL;85;80;165;100;150;680
+898;Calyrex;King ;NULL;"""Legendary""";11;77;Psychic;Grass;Unnerve;NULL;80;80;80;80;80;500
+899;Wyrdeer;Big Horn ;NULL;NULL;18;951;Normal;Psychic;Intimidate;Frisk;105;72;105;75;65;525
+900;Kleavor;Axe ;NULL;NULL;18;890;Bug;Rock;Swarm;Sheer Force;130;95;45;75;85;500
+901;Ursaluna;Peat ;NULL;NULL;24;2900;Ground;Normal;Guts;Bulletproof;140;105;45;80;50;550
+902;Basculegion;Big Fish ;Female;NULL;30;1100;Water;Ghost;Swift Swim;Adaptability;92;65;100;75;78;530
+902;Basculegion;Big Fish ;NULL;NULL;30;1100;Water;Ghost;Swift Swim;Adaptability;112;65;80;75;78;530
+903;Sneasler;Free Climb ;NULL;NULL;13;430;Fighting;Poison;Pressure;Unburden;130;60;40;80;120;510
+904;Overqwil;Pin Cluster ;NULL;NULL;25;605;Dark;Poison;Poison Point;Swift Swim;115;95;65;65;85;510
+905;Enamorus;Love-Hate ;NULL;"""Sub-Legendary""";16;480;Fairy;Flying;Healer;NULL;115;70;135;80;106;580
+905;Enamorus;Love-Hate ;Therian;"""Sub-Legendary""";16;480;Fairy;Flying;Overcoat;NULL;115;110;135;100;46;580
+906;Sprigatito;Grass Cat ;NULL;NULL;4;41;Grass;NULL;Overgrow;NULL;61;54;45;45;65;310
+907;Floragato;Grass Cat ;NULL;NULL;9;122;Grass;NULL;Overgrow;NULL;80;63;60;63;83;410
+908;Meowscarada;Magician ;NULL;NULL;15;312;Grass;Dark;Overgrow;NULL;110;70;81;70;123;530
+909;Fuecoco;Fire Croc ;NULL;NULL;4;41;Fire;NULL;Blaze;NULL;45;59;63;40;36;310
+910;Crocalor;Fire Croc ;NULL;NULL;10;307;Fire;NULL;Blaze;NULL;55;78;49;58;90;411
+911;Skeledirge;Singer ;NULL;NULL;16;3265;Fire;Ghost;Blaze;NULL;75;100;110;75;66;530
+912;Quaxly;Duckling ;NULL;NULL;5;61;Water;NULL;Torrent;NULL;65;45;50;45;50;310
+913;Quaxwell;Practicing ;NULL;NULL;12;215;Water;NULL;Torrent;NULL;85;65;65;60;65;410
+914;Quaquaval;Dancer ;NULL;NULL;18;619;Water;Fighting;Torrent;NULL;120;80;85;75;85;530
+915;Lechonk;Hog ;NULL;NULL;5;102;Normal;NULL;Aroma Veil;Gluttony;45;40;35;45;35;254
+916;Oinkologne;Hog ;NULL;NULL;10;1200;Normal;NULL;Lingering Aroma;Gluttony;100;75;59;80;65;489
+916;Oinkologne;Hog ;Female;NULL;10;1200;Normal;NULL;Aroma Veil;Gluttony;90;70;59;90;65;489
+917;Tarountula;String Ball ;NULL;NULL;3;40;Bug;NULL;Insomnia;NULL;41;45;29;40;20;210
+918;Spidops;Trap ;NULL;NULL;10;165;Bug;NULL;Insomnia;NULL;79;92;52;86;35;404
+919;Nymble;Grasshopper ;NULL;NULL;2;10;Bug;NULL;Swarm;NULL;46;40;21;25;45;210
+920;Lokix;Grasshopper ;NULL;NULL;10;175;Bug;Dark;Swarm;NULL;102;78;52;55;92;450
+921;Pawmi;Mouse ;NULL;NULL;3;25;Electric;NULL;Static;Natural Cure;50;20;40;25;60;240
+922;Pawmo;Mouse ;NULL;NULL;4;65;Electric;Fighting;Volt Absorb;Natural Cure;75;40;50;40;85;350
+923;Pawmot;Mouse ;NULL;NULL;9;410;Electric;Fighting;Volt Absorb;Natural Cure;115;70;70;60;105;490
+924;Tandemaus;Couple ;NULL;NULL;3;18;Normal;NULL;Run Away;Pickup;50;45;40;45;75;305
+925;Maushold;Family ;NULL;NULL;3;28;Normal;NULL;Friend Guard;Cheek Pouch;75;70;65;75;111;470
+926;Fidough;Puppy ;NULL;NULL;3;109;Fairy;NULL;Own Tempo;NULL;55;70;30;55;65;312
+927;Dachsbun;Dog ;NULL;NULL;5;149;Fairy;NULL;Well-Baked Body;NULL;80;115;50;80;95;477
+928;Smoliv;Olive ;NULL;NULL;3;65;Grass;Normal;Early Bird;NULL;35;45;58;51;30;260
+929;Dolliv;Olive ;NULL;NULL;6;119;Grass;Normal;Early Bird;NULL;53;60;78;78;33;354
+930;Arboliva;Olive ;NULL;NULL;14;482;Grass;Normal;Seed Sower;NULL;69;90;125;109;39;510
+931;Squawkabilly;Parrot ;NULL;NULL;6;24;Normal;Flying;Intimidate;Hustle;96;51;45;51;92;417
+931;Squawkabilly;Parrot ;Blue Plumage;NULL;6;24;Normal;Flying;Intimidate;Hustle;96;51;45;51;92;417
+931;Squawkabilly;Parrot ;Yellow Plumage;NULL;6;24;Normal;Flying;Intimidate;Hustle;96;51;45;51;92;417
+931;Squawkabilly;Parrot ;White Plumage;NULL;6;24;Normal;Flying;Intimidate;Hustle;96;51;45;51;92;417
+932;Nacli;Rock Salt ;NULL;NULL;4;160;Rock;NULL;Purifying Salt;Sturdy;55;75;35;35;25;280
+933;Naclstack;Rock Salt ;NULL;NULL;6;1050;Rock;NULL;Purifying Salt;Sturdy;60;100;35;65;35;355
+934;Garganacl;Rock Salt ;NULL;NULL;23;2400;Rock;NULL;Purifying Salt;Sturdy;100;130;45;90;35;500
+935;Charcadet;Fire Child ;NULL;NULL;6;105;Fire;NULL;Flash Fire;NULL;50;40;50;40;35;255
+936;Armarouge;Fire Warrior ;NULL;NULL;15;850;Fire;Psychic;Flash Fire;NULL;60;100;125;80;75;525
+937;Ceruledge;Fire Blades ;NULL;NULL;16;620;Fire;Ghost;Flash Fire;NULL;125;80;60;100;85;525
+938;Tadbulb;EleTadpole ;NULL;NULL;3;4;Electric;NULL;Own Tempo;Static;31;41;59;35;45;272
+939;Bellibolt;EleFrog Pokemon;NULL;NULL;12;1130;Electric;NULL;Electromorphosis;Static;64;91;103;83;45;495
+940;Wattrel;Storm Petrel ;NULL;NULL;4;36;Electric;Flying;Wind Power;Volt Absorb;40;35;55;40;70;280
+941;Kilowattrel;Frigatebird ;NULL;NULL;14;386;Electric;Flying;Wind Power;Volt Absorb;70;60;105;60;125;490
+942;Maschiff;Rascal ;NULL;NULL;5;160;Dark;NULL;Intimidate;Guard Dog;78;60;40;51;51;340
+943;Mabosstiff;Boss ;NULL;NULL;11;610;Dark;NULL;Intimidate;Guard Dog;120;90;60;70;85;505
+944;Shroodle;Toxic Mouse ;NULL;NULL;2;7;Poison;Normal;Unburden;Pickpocket;65;35;40;35;75;290
+945;Grafaiai;Toxic Monkey ;NULL;NULL;7;272;Poison;Normal;Unburden;Poison Touch;95;65;80;72;110;485
+946;Bramblin;Tumbleweed ;NULL;NULL;6;6;Grass;Ghost;Wind Power;NULL;65;30;45;35;60;275
+947;Brambleghast;Tumbleweed ;NULL;NULL;12;60;Grass;Ghost;Wind Power;NULL;115;70;80;70;90;480
+948;Toedscool;Woodear ;NULL;NULL;9;330;Ground;Grass;Mycelium Might;NULL;40;35;50;100;70;335
+949;Toedscruel;Woodear ;NULL;NULL;19;580;Ground;Grass;Mycelium Might;NULL;70;65;80;120;100;515
+950;Klawf;Ambush ;NULL;NULL;13;790;Rock;NULL;Anger Shell;Shell Armor;100;115;35;55;75;450
+951;Capsakid;Spicy Pepper ;NULL;NULL;3;30;Grass;NULL;Chlorophyll;Insomnia;62;40;62;40;50;304
+952;Scovillain;Spicy Pepper ;NULL;NULL;9;150;Grass;Fire;Chlorophyll;Insomnia;108;65;108;65;75;486
+953;Rellor;Rolling ;NULL;NULL;2;10;Bug;NULL;Compound Eyes;NULL;50;60;31;58;30;270
+954;Rabsca;Rolling ;NULL;NULL;3;35;Bug;Psychic;Synchronize;NULL;50;85;115;100;45;470
+955;Flittle;Frill ;NULL;NULL;2;15;Psychic;NULL;Anticipation;Frisk;35;30;55;30;75;255
+956;Espathra;Ostrich ;NULL;NULL;19;900;Psychic;NULL;Opportunist;Frisk;60;60;101;60;105;481
+957;Tinkatink;Metalsmith ;NULL;NULL;4;89;Fairy;Steel;Mold Breaker;Own Tempo;45;45;35;64;58;297
+958;Tinkatuff;Hammer ;NULL;NULL;7;591;Fairy;Steel;Mold Breaker;Own Tempo;55;55;45;82;78;380
+959;Tinkaton;Hammer ;NULL;NULL;7;1128;Fairy;Steel;Mold Breaker;Own Tempo;75;77;70;105;94;506
+960;Wiglett;Garden Eel ;NULL;NULL;12;18;Water;NULL;Gooey;Rattled;55;25;35;25;95;245
+961;Wugtrio;Garden Eel ;NULL;NULL;12;54;Water;NULL;Gooey;Rattled;100;50;50;70;120;425
+962;Bombirdier;Item Drop ;NULL;NULL;15;429;Flying;Dark;Big Pecks;Keen Eye;103;85;60;85;82;485
+963;Finizen;Dolphin ;NULL;NULL;13;602;Water;NULL;Water Veil;NULL;45;40;45;40;75;315
+964;Palafin;Dolphin ;NULL;NULL;13;602;Water;NULL;Zero to Hero;NULL;70;72;53;62;100;457
+964;Palafin;Dolphin ;Hero;NULL;18;974;Water;NULL;Zero to Hero;NULL;160;97;106;87;100;650
+965;Varoom;Single-Cyl ;NULL;NULL;10;350;Steel;Poison;Overcoat;NULL;70;63;30;45;47;300
+966;Revavroom;Multi-Cyl ;NULL;NULL;18;1200;Steel;Poison;Overcoat;NULL;119;90;54;67;90;500
+967;Cyclizar;Mount ;NULL;NULL;16;630;Dragon;Normal;Shed Skin;NULL;95;65;85;65;121;501
+968;Orthworm;Earthworm ;NULL;NULL;25;3100;Steel;NULL;Earth Eater;NULL;85;145;60;55;65;480
+969;Glimmet;Ore ;NULL;NULL;7;80;Rock;Poison;Toxic Debris;NULL;35;42;105;60;60;350
+970;Glimmora;Ore ;NULL;NULL;15;450;Rock;Poison;Toxic Debris;NULL;55;90;130;81;86;525
+971;Greavard;Ghost Dog ;NULL;NULL;6;350;Ghost;NULL;Pickup;NULL;61;60;30;55;34;290
+972;Houndstone;Ghost Dog ;NULL;NULL;20;150;Ghost;NULL;Sand Rush;NULL;101;100;50;97;68;488
+973;Flamigo;Synchronize ;NULL;NULL;16;370;Flying;Fighting;Scrappy;Tangled Feet;115;74;75;64;90;500
+974;Cetoddle;Terra Whale ;NULL;NULL;12;450;Ice;NULL;Thick Fat;Snow Cloak;68;45;30;40;43;334
+975;Cetitan;Terra Whale ;NULL;NULL;45;7000;Ice;NULL;Thick Fat;Slush Rush;113;65;45;55;73;521
+976;Veluza;Jettison ;NULL;NULL;25;900;Water;Psychic;Mold Breaker;NULL;102;73;78;65;70;478
+977;Dondozo;Big Catfish ;NULL;NULL;120;2200;Water;NULL;Unaware;Oblivious;100;115;65;65;35;530
+978;Tatsugiri;Mimicry ;NULL;NULL;3;80;Dragon;Water;Commander;NULL;50;60;120;95;82;475
+979;Annihilape;Rage Monkey ;NULL;NULL;12;560;Fighting;Ghost;Vital Spirit;Inner Focus;115;80;50;90;90;535
+980;Clodsire;Spiny Fish ;NULL;NULL;18;2230;Poison;Ground;Poison Point;Water Absorb;75;60;45;100;20;430
+981;Farigiraf;Long Neck ;NULL;NULL;32;1600;Normal;Psychic;Cud Chew;Armor Tail;90;70;110;70;60;520
+982;Dudunsparce;Land Snake ;NULL;NULL;36;392;Normal;NULL;Serene Grace;Run Away;100;80;85;75;55;520
+983;Kingambit;Big Blade ;NULL;NULL;20;1200;Dark;Steel;Defiant;Supreme Overload;135;120;60;85;50;550
+984;Great Tusk;Paradox ;NULL;NULL;22;3200;Ground;Fighting;Protosynthesis;NULL;131;131;53;53;87;570
+985;Scream Tail;Paradox ;NULL;NULL;12;80;Fairy;Psychic;Protosynthesis;NULL;65;99;65;115;111;570
+986;Brute Bonnet;Paradox ;NULL;NULL;12;210;Grass;Dark;Protosynthesis;NULL;127;99;79;99;55;570
+987;Flutter Mane;Paradox ;NULL;NULL;14;40;Ghost;Fairy;Protosynthesis;NULL;55;55;135;135;135;570
+988;Slither Wing;Paradox ;NULL;NULL;32;920;Bug;Fighting;Protosynthesis;NULL;135;79;85;105;81;570
+989;Sandy Shocks;Paradox ;NULL;NULL;23;600;Electric;Ground;Protosynthesis;NULL;81;97;121;85;101;570
+990;Iron Treads;Paradox ;NULL;NULL;9;2400;Ground;Steel;Quark Drive;NULL;112;120;72;70;106;570
+991;Iron Bundle;Paradox ;NULL;NULL;6;110;Ice;Water;Quark Drive;NULL;80;114;124;60;136;570
+992;Iron Hands;Paradox ;NULL;NULL;18;3807;Fighting;Electric;Quark Drive;NULL;140;108;50;68;50;570
+993;Iron Jugulis;Paradox ;NULL;NULL;13;1110;Dark;Flying;Quark Drive;NULL;80;86;122;80;108;570
+994;Iron Moth;Paradox ;NULL;NULL;12;360;Fire;Poison;Quark Drive;NULL;70;60;140;110;110;570
+995;Iron Thorns;Paradox ;NULL;NULL;16;3030;Rock;Electric;Quark Drive;NULL;130;110;70;84;72;566
+996;Frigibax;Ice Fin ;NULL;NULL;5;170;Dragon;Ice;Thermal Exchange;NULL;75;45;35;45;55;320
+997;Arctibax;Ice Fin ;NULL;NULL;8;300;Dragon;Ice;Thermal Exchange;NULL;95;66;45;65;62;423
+998;Baxcalibur;Ice Dragon ;NULL;NULL;21;2100;Dragon;Ice;Thermal Exchange;NULL;145;92;75;86;87;600
+999;Gimmighoul;Coin Chest ;NULL;NULL;3;50;Ghost;NULL;Rattled;NULL;30;70;75;70;10;300
+999;Gimmighoul;Coin Chest ;Roaming;NULL;1;1;Ghost;NULL;Run Away;NULL;30;25;75;45;80;300
+1000;Gholdengo;Coin Entity ;NULL;NULL;12;300;Steel;Ghost;Good as Gold;NULL;60;95;133;97;84;556
+1001;Wo-Chien;Ruinous ;NULL;"""Sub-Legendary""";15;742;Dark;Grass;Tablets of Ruin;NULL;85;100;95;135;70;570
+1002;Chien-Pao;Ruinous ;NULL;"""Sub-Legendary""";19;1522;Dark;Ice;Sword of Ruin;NULL;120;80;90;65;135;570
+1003;Ting-Lu;Ruinous ;NULL;"""Sub-Legendary""";27;6997;Dark;Ground;Vessel of Ruin;NULL;110;125;55;80;45;570
+1004;Chi-Yu;Ruinous ;NULL;"""Sub-Legendary""";4;49;Dark;Fire;Beads of Ruin;NULL;80;80;135;120;100;570
+1005;Roaring Moon;Paradox ;NULL;NULL;20;3800;Dragon;Dark;Protosynthesis;NULL;139;71;55;101;119;590
+1006;Iron Valiant;Paradox ;NULL;NULL;14;350;Fairy;Fighting;Quark Drive;NULL;130;90;120;60;116;590
+1007;Koraidon;Paradox ;NULL;"""Legendary""";25;3030;Fighting;Dragon;Orichalcum Pulse;NULL;135;115;85;100;135;670
+1008;Miraidon;Paradox ;NULL;"""Legendary""";35;2400;Electric;Dragon;Hadron Engine;NULL;85;100;135;115;135;670
