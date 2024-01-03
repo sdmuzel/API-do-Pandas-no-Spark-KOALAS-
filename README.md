@@ -1,4 +1,2 @@
-# Databricks
-Files and data for databricks course of Alura 
-
-Análise dos dados do pokemon utilizando  a API do Pandas no Spark (KOALAS). Código todo feito no databricks community
+# API do Pndas no Spark
+Projetos desenvolvidos utilizando o databricks e a API do Pandas no Spark (Koalas)
